@@ -1,0 +1,3485 @@
+[
+  {
+    "Move": "Wolkenapalm I",
+    "SP Cost": 3,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Fire",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 65 Fire damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Wolkenapalm II",
+    "SP Cost": 6,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Fire",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 85 Fire damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Wolkenapalm III",
+    "SP Cost": 9,
+    "Type": "Physical",
+    "Power": 105,
+    "Attribute": "Fire",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 105 Fire damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Burst Flame I",
+    "SP Cost": 3,
+    "Type": "Magic",
+    "Power": 55,
+    "Attribute": "Fire",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 55 Fire damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Burst Flame II",
+    "SP Cost": 6,
+    "Type": "Magic",
+    "Power": 75,
+    "Attribute": "Fire",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 75 Fire damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Burst Flame III",
+    "SP Cost": 9,
+    "Type": "Magic",
+    "Power": 95,
+    "Attribute": "Fire",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 95 Fire damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Meteor Fall I",
+    "SP Cost": 4,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Fire",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 30 Fire damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Meteor Fall II",
+    "SP Cost": 7,
+    "Type": "Physical",
+    "Power": 45,
+    "Attribute": "Fire",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 45 Fire damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Meteor Fall III",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 75,
+    "Attribute": "Fire",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 75 Fire damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Panic Wisp",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 30,
+    "Attribute": "Fire",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 30 Fire damage to one foe. Inflicts Panic status effect."
+  },
+  {
+    "Move": "Ice Archery I",
+    "SP Cost": 3,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Water",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 65 Water damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Ice Archery II",
+    "SP Cost": 6,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Water",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 85 Water damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Ice Archery III",
+    "SP Cost": 9,
+    "Type": "Physical",
+    "Power": 105,
+    "Attribute": "Water",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 105 Water damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Hydro Water I",
+    "SP Cost": 3,
+    "Type": "Magic",
+    "Power": 55,
+    "Attribute": "Water",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 55 Water damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Hydro Water II",
+    "SP Cost": 6,
+    "Type": "Magic",
+    "Power": 75,
+    "Attribute": "Water",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 75 Water damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Hydro Water III",
+    "SP Cost": 9,
+    "Type": "Magic",
+    "Power": 95,
+    "Attribute": "Water",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 95 Water damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Ocean Wave I",
+    "SP Cost": 4,
+    "Type": "Magic",
+    "Power": 20,
+    "Attribute": "Water",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 20 Water damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Ocean Wave II",
+    "SP Cost": 7,
+    "Type": "Magic",
+    "Power": 35,
+    "Attribute": "Water",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 35 Water damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Ocean Wave III",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 65,
+    "Attribute": "Water",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 65 Water damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Idle Bubble",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 30,
+    "Attribute": "Water",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 30 Water damage to one foe. Inflicts Sleep status effect."
+  },
+  {
+    "Move": "Crescent Leaf I",
+    "SP Cost": 3,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Plant",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 65 Plant damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Crescent Leaf II",
+    "SP Cost": 6,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Plant",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 85 Plant damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Crescent Leaf III",
+    "SP Cost": 9,
+    "Type": "Physical",
+    "Power": 105,
+    "Attribute": "Plant",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 105 Plant damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Gaia Element I",
+    "SP Cost": 3,
+    "Type": "Magic",
+    "Power": 55,
+    "Attribute": "Plant",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 55 Plant damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Gaia Element II",
+    "SP Cost": 6,
+    "Type": "Magic",
+    "Power": 75,
+    "Attribute": "Plant",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 75 Plant damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Gaia Element III",
+    "SP Cost": 9,
+    "Type": "Magic",
+    "Power": 95,
+    "Attribute": "Plant",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 95 Plant damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Rune Forest I",
+    "SP Cost": 4,
+    "Type": "Magic",
+    "Power": 20,
+    "Attribute": "Plant",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 20 Plant damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Rune Forest II",
+    "SP Cost": 7,
+    "Type": "Magic",
+    "Power": 35,
+    "Attribute": "Plant",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 35 Plant damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Rune Forest III",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 65,
+    "Attribute": "Plant",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 65 Plant damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Venom Trap",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 40,
+    "Attribute": "Plant",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect."
+  },
+  {
+    "Move": "Nanomachine Break I",
+    "SP Cost": 3,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Thunder",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 65 Thunder damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Nanomachine Break II",
+    "SP Cost": 6,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Thunder",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 85 Thunder damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Nanomachine Break III",
+    "SP Cost": 9,
+    "Type": "Physical",
+    "Power": 105,
+    "Attribute": "Thunder",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 105 Thunder damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Heaven's Thunder I",
+    "SP Cost": 3,
+    "Type": "Magic",
+    "Power": 55,
+    "Attribute": "Thunder",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 55 Thunder damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Heaven's Thunder II",
+    "SP Cost": 6,
+    "Type": "Magic",
+    "Power": 75,
+    "Attribute": "Thunder",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 75 Thunder damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Heaven's Thunder III",
+    "SP Cost": 9,
+    "Type": "Magic",
+    "Power": 95,
+    "Attribute": "Thunder",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 95 Thunder damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Thunder Fall I",
+    "SP Cost": 4,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Thunder",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 30 Thunder damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Thunder Fall II",
+    "SP Cost": 7,
+    "Type": "Physical",
+    "Power": 45,
+    "Attribute": "Thunder",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 45 Thunder damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Thunder Fall III",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 75,
+    "Attribute": "Thunder",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 75 Thunder damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Ripping Net",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 40,
+    "Attribute": "Thunder",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect."
+  },
+  {
+    "Move": "Comet Hammer I",
+    "SP Cost": 3,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Earth",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 65 Earth damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Comet Hammer II",
+    "SP Cost": 6,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Earth",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 85 Earth damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Comet Hammer III",
+    "SP Cost": 9,
+    "Type": "Physical",
+    "Power": 105,
+    "Attribute": "Earth",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 105 Earth damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Grand Rock I",
+    "SP Cost": 3,
+    "Type": "Magic",
+    "Power": 55,
+    "Attribute": "Earth",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 55 Earth damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Grand Rock II",
+    "SP Cost": 6,
+    "Type": "Magic",
+    "Power": 75,
+    "Attribute": "Earth",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 75 Earth damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Grand Rock III",
+    "SP Cost": 9,
+    "Type": "Magic",
+    "Power": 95,
+    "Attribute": "Earth",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 95 Earth damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Awesome Quake I",
+    "SP Cost": 4,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Earth",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 30 Earth damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Awesome Quake II",
+    "SP Cost": 7,
+    "Type": "Physical",
+    "Power": 45,
+    "Attribute": "Earth",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 45 Earth damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Awesome Quake III",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 75,
+    "Attribute": "Earth",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 75 Earth damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Shock",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 40,
+    "Attribute": "Earth",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 40 Earth damage to one foe. Inflicts Stun status effect."
+  },
+  {
+    "Move": "Wind Claw I",
+    "SP Cost": 3,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Wind",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 65 Wind damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Wind Claw II",
+    "SP Cost": 6,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Wind",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 85 Wind damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Wind Claw III",
+    "SP Cost": 9,
+    "Type": "Physical",
+    "Power": 105,
+    "Attribute": "Wind",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 105 Wind damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Sonic Void I",
+    "SP Cost": 3,
+    "Type": "Magic",
+    "Power": 55,
+    "Attribute": "Wind",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 55 Wind damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Sonic Void II",
+    "SP Cost": 6,
+    "Type": "Magic",
+    "Power": 75,
+    "Attribute": "Wind",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 75 Wind damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Sonic Void III",
+    "SP Cost": 9,
+    "Type": "Magic",
+    "Power": 95,
+    "Attribute": "Wind",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 95 Wind damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Gale Storm I",
+    "SP Cost": 4,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Wind",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 30 Wind damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Gale Storm II",
+    "SP Cost": 7,
+    "Type": "Physical",
+    "Power": 45,
+    "Attribute": "Wind",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 45 Wind damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Gale Storm III",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 75,
+    "Attribute": "Wind",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 75 Wind damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Texture Blow",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 40,
+    "Attribute": "Wind",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 40 Wind damage to one foe. Inflicts Dot status effect."
+  },
+  {
+    "Move": "Saint Knuckle I",
+    "SP Cost": 3,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Light",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 65 Light damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Saint Knuckle II",
+    "SP Cost": 6,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Light",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 85 Light damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Saint Knuckle III",
+    "SP Cost": 9,
+    "Type": "Physical",
+    "Power": 105,
+    "Attribute": "Light",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 105 Light damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Holy Light I",
+    "SP Cost": 3,
+    "Type": "Magic",
+    "Power": 55,
+    "Attribute": "Light",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 55 Light damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Holy Light II",
+    "SP Cost": 6,
+    "Type": "Magic",
+    "Power": 75,
+    "Attribute": "Light",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 75 Light damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Holy Light III",
+    "SP Cost": 9,
+    "Type": "Magic",
+    "Power": 95,
+    "Attribute": "Light",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 95 Light damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Shining Laser I",
+    "SP Cost": 4,
+    "Type": "Magic",
+    "Power": 20,
+    "Attribute": "Light",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 20 Light damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Shining Laser II",
+    "SP Cost": 7,
+    "Type": "Magic",
+    "Power": 35,
+    "Attribute": "Light",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 35 Light damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Shining Laser III",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 65,
+    "Attribute": "Light",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 65 Light damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Support End",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 30,
+    "Attribute": "Light",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 30 Light damage to one foe. Prevents the use of support skills."
+  },
+  {
+    "Move": "Destruction Cannon I",
+    "SP Cost": 3,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Dark",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 65 Dark damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Destruction Cannon II",
+    "SP Cost": 6,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Dark",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 85 Dark damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Destruction Cannon III",
+    "SP Cost": 9,
+    "Type": "Physical",
+    "Power": 105,
+    "Attribute": "Dark",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 105 Dark damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Nightmare I",
+    "SP Cost": 3,
+    "Type": "Magic",
+    "Power": 55,
+    "Attribute": "Dark",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 55 Dark damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Nightmare II",
+    "SP Cost": 6,
+    "Type": "Magic",
+    "Power": 75,
+    "Attribute": "Dark",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 75 Dark damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Nightmare III",
+    "SP Cost": 9,
+    "Type": "Magic",
+    "Power": 95,
+    "Attribute": "Dark",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 95 Dark damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Hell Crusher I",
+    "SP Cost": 4,
+    "Type": "Magic",
+    "Power": 20,
+    "Attribute": "Dark",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 20 Dark damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Hell Crusher II",
+    "SP Cost": 7,
+    "Type": "Magic",
+    "Power": 35,
+    "Attribute": "Dark",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 35 Dark damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Hell Crusher III",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 65,
+    "Attribute": "Dark",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 65 Dark damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Destruction",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 40,
+    "Attribute": "Dark",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 40 Dark damage to one foe. 10% chance to inflict Death."
+  },
+  {
+    "Move": "Heavy Strike I",
+    "SP Cost": 3,
+    "Type": "Physical",
+    "Power": 70,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 70 Neutral damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Heavy Strike II",
+    "SP Cost": 6,
+    "Type": "Physical",
+    "Power": 90,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 90 Neutral damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Heavy Strike III",
+    "SP Cost": 9,
+    "Type": "Physical",
+    "Power": 110,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 110 Neutral damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Power Energy I",
+    "SP Cost": 3,
+    "Type": "Magic",
+    "Power": 60,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 60 Neutral damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Power Energy II",
+    "SP Cost": 6,
+    "Type": "Magic",
+    "Power": 80,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 80 Neutral damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Power Energy III",
+    "SP Cost": 9,
+    "Type": "Magic",
+    "Power": 100,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 100 Neutral damage to one foe. 95% accuracy."
+  },
+  {
+    "Move": "Mach Rush I",
+    "SP Cost": 4,
+    "Type": "Physical",
+    "Power": 35,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 35 Neutral damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Mach Rush II",
+    "SP Cost": 7,
+    "Type": "Physical",
+    "Power": 50,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 50 Neutral damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Mach Rush III",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 80,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 80 Neutral damage to all foes. 95% accuracy."
+  },
+  {
+    "Move": "Physical Drain",
+    "SP Cost": 3,
+    "Type": "Physical",
+    "Power": 50,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Physical attack, 50 Neutral damage to one foe. Absorb 10% SP."
+  },
+  {
+    "Move": "Spirit Drain",
+    "SP Cost": 3,
+    "Type": "Magic",
+    "Power": 40,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 40 Neutral damage to one foe. Absorb 10% SP."
+  },
+  {
+    "Move": "Character Reversal",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 30,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Magic attack, 30 Neutral damage to one foe. Inflicts Bug status effect."
+  },
+  {
+    "Move": "Heal",
+    "SP Cost": 4,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Restores a little HP for one party member."
+  },
+  {
+    "Move": "X-Heal",
+    "SP Cost": 8,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Restores HP for one party member."
+  },
+  {
+    "Move": "Final Heal",
+    "SP Cost": 16,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Restores a lot of HP for one party member."
+  },
+  {
+    "Move": "Aura",
+    "SP Cost": 10,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Restores a little HP for all party members."
+  },
+  {
+    "Move": "X-Aura",
+    "SP Cost": 25,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Restores HP for all party members."
+  },
+  {
+    "Move": "Final Aura",
+    "SP Cost": 40,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Restores a lot of HP for all party members."
+  },
+  {
+    "Move": "Revive",
+    "SP Cost": 30,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Revive one fallen party member with 50% HP."
+  },
+  {
+    "Move": "Perfect Revival",
+    "SP Cost": 60,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Revive all fallen party members with full HP."
+  },
+  {
+    "Move": "Anti-Poison",
+    "SP Cost": 4,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Recover Poison from one party member and restore some HP."
+  },
+  {
+    "Move": "Anti-Panic",
+    "SP Cost": 4,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Recover Panic from one party member and restore some HP."
+  },
+  {
+    "Move": "Anti-Paralysis",
+    "SP Cost": 4,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Recover Paralyze from one party member and restore some HP."
+  },
+  {
+    "Move": "Anti-Sleep",
+    "SP Cost": 4,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Recover Sleep from one party member and restore some HP."
+  },
+  {
+    "Move": "Anti-Stun",
+    "SP Cost": 4,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Recover Stun from one party member and restore some HP."
+  },
+  {
+    "Move": "Anti-Dot",
+    "SP Cost": 4,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Recover Dot from one party member and restore some HP."
+  },
+  {
+    "Move": "Anti-Bug",
+    "SP Cost": 4,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Recover Bug from one party member and restore some HP."
+  },
+  {
+    "Move": "Restore",
+    "SP Cost": 8,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Remove all status effects from one party member and restore some HP."
+  },
+  {
+    "Move": "Dispel",
+    "SP Cost": 8,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Remove basic debuffs from one party member and restore some HP."
+  },
+  {
+    "Move": "Attack Charge",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increases ATK of one member by 10%."
+  },
+  {
+    "Move": "Attack Charge Field",
+    "SP Cost": 20,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increases ATK of all battle members by 10%."
+  },
+  {
+    "Move": "Guard Charge",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increases DEF of one member by 10%."
+  },
+  {
+    "Move": "Guard Charge Field",
+    "SP Cost": 20,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increases DEF of all battle members by 10%."
+  },
+  {
+    "Move": "Mental Charge",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increases INT of one member by 10%."
+  },
+  {
+    "Move": "Mental Charge Field",
+    "SP Cost": 20,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increases INT of all battle members by 10%."
+  },
+  {
+    "Move": "Speed Charge",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increases SPD of one member by 10%."
+  },
+  {
+    "Move": "Speed Charge Field",
+    "SP Cost": 20,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increases SPD of all battle members by 10%."
+  },
+  {
+    "Move": "Hit Charge",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increases ACC of one battle member by 10%."
+  },
+  {
+    "Move": "Agility Charge",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increases EVA of one battle member by 10%."
+  },
+  {
+    "Move": "Critical Charge",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increases CRIT of one battle member by 10%."
+  },
+  {
+    "Move": "Attack Break",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Reduces ATK of one enemy by 10%."
+  },
+  {
+    "Move": "Attack Break Field",
+    "SP Cost": 20,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Reduces ATK of all enemies by 10%."
+  },
+  {
+    "Move": "Guard Break",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Reduces DEF of one enemy by 10%."
+  },
+  {
+    "Move": "Guard Break Field",
+    "SP Cost": 20,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Reduces DEF of all enemies by 10%."
+  },
+  {
+    "Move": "Mental Break",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Reduces INT of one enemy by 10%."
+  },
+  {
+    "Move": "Mental Break Field",
+    "SP Cost": 20,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Reduces INT of all enemies by 10%."
+  },
+  {
+    "Move": "Speed Break",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Reduces SPD of one enemy by 10%."
+  },
+  {
+    "Move": "Speed Break Field",
+    "SP Cost": 20,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Reduces SPD of all enemies by 10%."
+  },
+  {
+    "Move": "Acceleration Boost",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Doubles damage output in the next turn."
+  },
+  {
+    "Move": "Cross-Counter",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Counterattacks the enemy when you receive a physical attack."
+  },
+  {
+    "Move": "Mirror Reflection",
+    "SP Cost": 6,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Counterattacks the enemy when you receive a magic attack."
+  },
+  {
+    "Move": "Status Barrier",
+    "SP Cost": 16,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Make one member immune to all status effects."
+  },
+  {
+    "Move": "Safety Guard",
+    "SP Cost": 32,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Make one member endure all attacks that could kill you once."
+  },
+  {
+    "Move": "Chain Plus",
+    "SP Cost": 4,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increase COMBO for one member by 50%."
+  },
+  {
+    "Move": "Chain Max",
+    "SP Cost": 8,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Increase COMBO for one member by 100%."
+  },
+  {
+    "Move": "Chain Minus",
+    "SP Cost": 4,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Reduce COMBO for one enemy by 50%."
+  },
+  {
+    "Move": "Chain Loss",
+    "SP Cost": 8,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Reduce COMBO for one enemy by 100%."
+  },
+  {
+    "Move": "Escape Dash",
+    "SP Cost": 0,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "Yes",
+    "Description": "Flee from a battle."
+  },
+  {
+    "Move": "Bubbles",
+    "SP Cost": 2,
+    "Type": "Magic",
+    "Power": 30,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Magic attack, 30 Water damage to one foe. 90% accuracy."
+  },
+  {
+    "Move": "Pepper Breath",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 70,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 70 Fire damage to one foe."
+  },
+  {
+    "Move": "Spitfire Blast",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 35,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 35 Fire damage to all foes. 10% chance of increasing ATK by 10%."
+  },
+  {
+    "Move": "Diamond Shell",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 60,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 60 Earth damage to one foe. 10% chance of increasing DEF by 10%."
+  },
+  {
+    "Move": "Summon",
+    "SP Cost": 5,
+    "Type": "Fixed",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Fixed damage of 100 to one foe. 30% chance of increasing INT by 10%."
+  },
+  {
+    "Move": "Thunder Cloud",
+    "SP Cost": 5,
+    "Type": "Magic",
+    "Power": 30,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "2 magic attacks, 30 Electric damage to one foe."
+  },
+  {
+    "Move": "Lullaby Bubble",
+    "SP Cost": 5,
+    "Type": "Magic",
+    "Power": 55,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Magic attack, 55 Water damage to one foe. 10% chance of putting target to sleep."
+  },
+  {
+    "Move": "Double Backhand",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 20,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "2 physical attacks, 20 Neutral damage to all foes."
+  },
+  {
+    "Move": "Electric Stun Blast",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Physical attack, 65 Electric damage to one foe. 15% chance of paralyzing target."
+  },
+  {
+    "Move": "Blue Blaster",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 65 Fire damage to one foe. 10% chance of reducing target's DEF by 10%."
+  },
+  {
+    "Move": "Little Horn",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 70,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 70 Neutral damage to one foe. 10% chance of reducing target's DEF by 10%."
+  },
+  {
+    "Move": "Rock Breaker",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 70,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 70 Earth damage to one foe."
+  },
+  {
+    "Move": "Blinding Ray",
+    "SP Cost": 5,
+    "Type": "Magic",
+    "Power": 65,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 65 Light damage to one foe."
+  },
+  {
+    "Move": "Crazy Giggle",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 75,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Physical attack, 75 Dark damage to one foe."
+  },
+  {
+    "Move": "Rock Fist",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 65 Earth damage to one foe. 10% chance of increasing DEF by 10%."
+  },
+  {
+    "Move": "Goblin Strike",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 65 Fire damage to one foe. 10% chance of stunning target."
+  },
+  {
+    "Move": "Marching Fishes",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 15,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "1-3 physical attacks, 15 Water damage to all foes."
+  },
+  {
+    "Move": "Black Pearl Blast",
+    "SP Cost": 5,
+    "Type": "Magic",
+    "Power": 25,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Magic attack, 25 Water damage to all foes."
+  },
+  {
+    "Move": "Shiny Ring",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 70,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Physical attack, 70 Dark damage to one foe. Alwatys hits."
+  },
+  {
+    "Move": "Terrier Tornado",
+    "SP Cost": 5,
+    "Type": "Magic",
+    "Power": 20,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "Magic attack, 20 Wind damage to all foes."
+  },
+  {
+    "Move": "Super Shocker",
+    "SP Cost": 5,
+    "Type": "Magic",
+    "Power": 60,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Magic attack, 60 Electric damage to one foe."
+  },
+  {
+    "Move": "Plastic Blaze",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 60,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 60 Fire damage to one foe. 10% chance of reducing target's INT by 10%."
+  },
+  {
+    "Move": "Metal Cannon",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 70,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 70 Neutral damage to one foe. 30% chance of increasing DEF by 10%."
+  },
+  {
+    "Move": "Cog Crusher",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 70,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Physical attack, 70 Dark damage to one foe. Always hits."
+  },
+  {
+    "Move": "Air Shot",
+    "SP Cost": 5,
+    "Type": "Magic",
+    "Power": 50,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "Magic attack, 50 Wind damage to one foe. 10% chance of increasing SPD by 10%."
+  },
+  {
+    "Move": "Fifth Rush",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 20,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "5 physical attacks, 20 Earth damage to one foe. 80% accuracy."
+  },
+  {
+    "Move": "Poison Ivy",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Plant",
+    "Inheritable": "No",
+    "Description": "Physical attack, 65 Plant damage to one foe. 10% chance of poisoning target."
+  },
+  {
+    "Move": "Demi Darts",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 20,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Physical attack, 20 Dark damage to all foes, absorbs 5% into HP."
+  },
+  {
+    "Move": "Spiral Twister",
+    "SP Cost": 5,
+    "Type": "Magic",
+    "Power": 55,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Magic attack, 55 Fire damage to one foe. 10% chance of increasing INT by 10%."
+  },
+  {
+    "Move": "Ninja Blade",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 35,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "Physical attack, 35 Wind damage to all foes."
+  },
+  {
+    "Move": "Veemon Headbutt",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 75,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 75 Neutral damage to one foe."
+  },
+  {
+    "Move": "Puppy Howl",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "INT-penetrating attack, Light damage to one foe. 10% chance of paralyzing target."
+  },
+  {
+    "Move": "Electric Shock",
+    "SP Cost": 5,
+    "Type": "Magic",
+    "Power": 55,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Magic attack, 55 Electric damage to one foe. 10% chance of paralyzing target."
+  },
+  {
+    "Move": "Feather Slash",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, Wind damage to one foe."
+  },
+  {
+    "Move": "Seed Blast",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 15,
+    "Attribute": "Plant",
+    "Inheritable": "No",
+    "Description": "2 physical attacks, 15 Plant damage to all foes."
+  },
+  {
+    "Move": "Grand Cross",
+    "SP Cost": 30,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "INT-penetrating attack, Light damage to all foes."
+  },
+  {
+    "Move": "Diamond Storm",
+    "SP Cost": 5,
+    "Type": "Magic",
+    "Power": 25,
+    "Attribute": "Plant",
+    "Inheritable": "No",
+    "Description": "Magic attack, 25 Plant damage to all foes."
+  },
+  {
+    "Move": "Blazing Ice",
+    "SP Cost": 5,
+    "Type": "Magic",
+    "Power": 60,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Magic attack, 60 Water damage to one foe."
+  },
+  {
+    "Move": "Sticky Net",
+    "SP Cost": 5,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Plant",
+    "Inheritable": "No",
+    "Description": "Physical attack, 65 Plant damage to one foe. 30% chance of reducing target's SPD by 10%."
+  },
+  {
+    "Move": "Frozen Claw",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, Water damage to one foe."
+  },
+  {
+    "Move": "Glide Horn",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "Physical attack, 85 Wind damage to one foe. 15% chance of stunning target."
+  },
+  {
+    "Move": "Tail Hammer",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 85 Earth damage to one foe. 15% chance of stunning target."
+  },
+  {
+    "Move": "Harpoon Torpedo",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 90,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 90 Fire damage to one foe. Always hits."
+  },
+  {
+    "Move": "Thunder Cloud II",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 75,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Magic attack, 75 Electric damage to one foe. 10% chance of paralyzing target."
+  },
+  {
+    "Move": "Branch Drain",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 75,
+    "Attribute": "Plant",
+    "Inheritable": "No",
+    "Description": "Physical attack, 75 Plant damage to one foe, absorbs 20% into HP."
+  },
+  {
+    "Move": "Vee Laser",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 95,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Physical attack, 95 Light damage to one foe."
+  },
+  {
+    "Move": "Heaven's Knuckle",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 80,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Physical attack, 80 Light damage to one foe. 10% chance of increasing ATK & INT by 10%."
+  },
+  {
+    "Move": "Pummel Whack",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 90,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Physical attack, 90 Dark damage to one foe."
+  },
+  {
+    "Move": "D-Grenade",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 40,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 40 Fire damage to all foes. Always hits."
+  },
+  {
+    "Move": "Spiral Blow",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 90,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "Physical attack, 90 Wind damage to one foe."
+  },
+  {
+    "Move": "Electro Shocker",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 80,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Magic attack, 80 Electric damage to one foe."
+  },
+  {
+    "Move": "Mature Poop",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 75,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 75 Earth damage to one foe. 30% chance of reducing target's INT by 10%."
+  },
+  {
+    "Move": "Dumdum Uppercut",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 90,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 90 Neutral damage to one foe. 10% chance of stunning target."
+  },
+  {
+    "Move": "Fox Fire",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 85 Fire damage to one foe. 10% chance of increasing SPD by 10%."
+  },
+  {
+    "Move": "Freeze Fang",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Physical attack, 85 Water damage to one foe. 10% chance of increasing SPD by 10%."
+  },
+  {
+    "Move": "Will-o'-Wisp",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 30,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Magic attack, 30 Fire damage to all foes."
+  },
+  {
+    "Move": "Exhaust Flame",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 85 Fire damage to one foe. 10% chance of increasing ATK by 10%."
+  },
+  {
+    "Move": "Data Crusher",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 90,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Physical attack, 90 Dark damage to one foe. 5% chance of instantly killing target."
+  },
+  {
+    "Move": "Mega Flame",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 95,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 95 Fire damage to one foe."
+  },
+  {
+    "Move": "Bit Fire",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "3 physical attacks, 30 Fire damage to one foe."
+  },
+  {
+    "Move": "Chrono Breaker",
+    "SP Cost": 10,
+    "Type": "Fixed",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Fixed damage of 150 to one foe. 30% chance of reducing target's SPD by 10%."
+  },
+  {
+    "Move": "Scissor Claw",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, Neutral damage to one foe."
+  },
+  {
+    "Move": "Symphony Crusher",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "INT-penetrating attack, Neutral damage to one foe."
+  },
+  {
+    "Move": "Hyper Smell",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 70,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 70 Earth damage to one foe. 15% chance of confusing or paralyzing."
+  },
+  {
+    "Move": "Golden Rush",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 10,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "2 physical attacks, 10 Light damage to all foes. 1% chance of instantly killing target."
+  },
+  {
+    "Move": "Hyper Heat",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 85,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 85 Fire damage to one foe. 10% chance of reducing target's DEF by 10%."
+  },
+  {
+    "Move": "Sunshine Beam",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 80,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 80 Light damage to one foe."
+  },
+  {
+    "Move": "Ice Blast",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 75,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Magic attack, 75 Water damage to one foe. 10% chance of reducing target's SPD by 10%."
+  },
+  {
+    "Move": "Mega Burst",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 45,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 45 Fire damage to all foes."
+  },
+  {
+    "Move": "Poop",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 75,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 75 Earth damage to one foe. 30% chance of reducing target's SPD by 10%."
+  },
+  {
+    "Move": "Meteor Shower",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 40,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 40 Neutral damage to all foes. 90% accuracy. Tends to critical more often."
+  },
+  {
+    "Move": "Spiking Strike",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Plant",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, Plant damage to one foe. Tends to critical more often."
+  },
+  {
+    "Move": "Crystal Cloud",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 30,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Magic attack, 30 Water damage to all foes."
+  },
+  {
+    "Move": "Hyper Cannon",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 200,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 200 Fire damage to one foe. Cannot move from recoil for one turn."
+  },
+  {
+    "Move": "Fire Breath",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 90,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 90 Fire damage to one foe. Tends to critical more often."
+  },
+  {
+    "Move": "Lightning Paw",
+    "SP Cost": 10,
+    "Type": "Fixed",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Fixed damage of 150 to one foe. 60% chance of confusing target."
+  },
+  {
+    "Move": "Death Claw",
+    "SP Cost": 10,
+    "Type": "Fixed",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Fixed damage of 200 to one foe. Absorbs 20% of the damage as HP."
+  },
+  {
+    "Move": "Needle Spray",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 40,
+    "Attribute": "Plant",
+    "Inheritable": "No",
+    "Description": "Physical attack, 40 Plant damage to all foes. 5% chance of paralyzing target."
+  },
+  {
+    "Move": "Power Metal",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 90,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 90 Neutral damage to one foe. 30% chance of increasing attack by 10%."
+  },
+  {
+    "Move": "Poop Dunk",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 80,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 80 Earth damage to one foe. 30% chance of reducing target's DEF by 10%."
+  },
+  {
+    "Move": "Poop Toss",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 75,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 75 Earth damage to one foe. 30% chance of reducing target's ATK by 10%."
+  },
+  {
+    "Move": "Meteor Wing",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 25,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Magic attack, 25 Fire damage to all foes. 10% chance of increasing SPD by 10%."
+  },
+  {
+    "Move": "Death Charm",
+    "SP Cost": 10,
+    "Type": "Direct",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Reduce 10% HP from one enemy."
+  },
+  {
+    "Move": "V-Nova Blast",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 105,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 105 Fire damage to one foe. After use, receive 5% HP damage from recoil."
+  },
+  {
+    "Move": "Rare Metal Poop",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 80,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 80 Earth damage to one foe. Causes Knockback."
+  },
+  {
+    "Move": "Super Stinky Jet",
+    "SP Cost": 10,
+    "Type": "Magic",
+    "Power": 20,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Magic attack, 20 Earth damage to all foes. 30% chance of reducing target's SPD by 10%."
+  },
+  {
+    "Move": "Kunai Wing",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "3 physical attacks, 30 Wind damage to one foe."
+  },
+  {
+    "Move": "Burning Fist",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 80,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 80 Fire damage to one foe. 30% chance of increasing ATK by 10%."
+  },
+  {
+    "Move": "Sub-zero Ice Punch",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 80,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Physical attack, 80 Water damage to one foe. 10% chance of stunning target."
+  },
+  {
+    "Move": "Fist of the Beast King",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 95,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 95 Earth damage to one foe."
+  },
+  {
+    "Move": "Razor Wind",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "2-4 physical attacks, 30 Neutral damage to one foe."
+  },
+  {
+    "Move": "Turbo Stinger",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 25,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "4 physical attacks, 25 Electric damage to one foe."
+  },
+  {
+    "Move": "Horn Buster",
+    "SP Cost": 30,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "INT-penetrating attack, double Electric damage to one foe."
+  },
+  {
+    "Move": "Bunny Blades",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 55,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "2 physical attacks, 55 Wind damage to one foe."
+  },
+  {
+    "Move": "Spiral Sword",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 110,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Physical attack, 110 Electric damage to one foe. Tends to critical more often."
+  },
+  {
+    "Move": "Galactic Flare",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 55,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Magic attack, 55 Neutral damage to all foes."
+  },
+  {
+    "Move": "Spider Shooter",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "4 physical attacks, 30 Fire damage to one foe. 5% chance of reducing target's DEF by 10%."
+  },
+  {
+    "Move": "Night Raid",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 65,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Magic attack, 65 Dark damage to all foes, absorbs 15% into HP."
+  },
+  {
+    "Move": "Dragon Impulse",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 115,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "Physical attack, 115 Wind damage to one foe."
+  },
+  {
+    "Move": "Love Serenade",
+    "SP Cost": 30,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "INT-penetrating attack, Dark damage to all foes. 15% chance of paralyzing target."
+  },
+  {
+    "Move": "Celestial Arrow",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 100,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 100 Light damage to one foe. Always hits."
+  },
+  {
+    "Move": "Double Scissor Claw",
+    "SP Cost": 30,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, double Neutral damage to one foe."
+  },
+  {
+    "Move": "Shadow Wing",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 65,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Magic attack, 65 Fire damage to all foes."
+  },
+  {
+    "Move": "Genocidal Gears",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 60,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 60 Fire damage to all foes."
+  },
+  {
+    "Move": "Nitro Stinger",
+    "SP Cost": 30,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, double Electric damage to one foe."
+  },
+  {
+    "Move": "The King of Fists",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 55,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "1-3 physical attacks, 55 Wind damage to one foe. 15% chance of stunning target."
+  },
+  {
+    "Move": "Desolation Claw",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 115,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 115 Neutral damage to one foe. 10% chance of instantly killing target."
+  },
+  {
+    "Move": "Disaster Blaster",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 65,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 65 Light damage to all foes."
+  },
+  {
+    "Move": "Cherry Bomb",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Plant",
+    "Inheritable": "No",
+    "Description": "Physical attack, 65 Plant damage to all foes."
+  },
+  {
+    "Move": "Top Gun",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 110,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "Magic attack, 110 Wind damage to one foe."
+  },
+  {
+    "Move": "Superstar Uppercut",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 110,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Physical attack, 110 Light damage to one foe."
+  },
+  {
+    "Move": "Oblivion Bird",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 110,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 110 Fire damage to one foe. 30% chance of reducing target's DEF by 10%."
+  },
+  {
+    "Move": "Vulcan's Hammer",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 115,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Physical attack, 115 Electric damage to one foe."
+  },
+  {
+    "Move": "Talisman of Light",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 105,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Magic attack, 105 Dark damage to one foe."
+  },
+  {
+    "Move": "Wind Cutter Sword",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 40,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "3 physical attacks, 40 Wind damage to one foe."
+  },
+  {
+    "Move": "Nightmare Syndrome",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Reduce 15% HP from one enemy. 20% chance of putting target to sleep."
+  },
+  {
+    "Move": "Heavy Metal Fire",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 110,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 110 Fire damage to one foe. 30% chance of increasing DEF by 10%."
+  },
+  {
+    "Move": "Musical Fist",
+    "SP Cost": 30,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "INT-penetrating attack, Neutral damage to all with 10% chance of reducing ATK/INT by 10%."
+  },
+  {
+    "Move": "Metal Meteor",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 115,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 115 Earth damage to one foe."
+  },
+  {
+    "Move": "Berserk Sword",
+    "SP Cost": 15,
+    "Type": "Direct",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Inflict Death on one enemy. 30% accuracy."
+  },
+  {
+    "Move": "Digital Bomb",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 80,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Magic attack, 80 Fire damage to one foe. 5% chance of reducing base stats by 10%."
+  },
+  {
+    "Move": "Death Parade Blaster",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 40,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "2 physical attacks, 40 Light damage to all foes."
+  },
+  {
+    "Move": "Fist of Ice",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 110,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Physical attack, 110 Water damage to one foe. 15% chance of stunning target."
+  },
+  {
+    "Move": "Trick or Treat",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 100,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 100 Neutral damage to one foe. Decrease target's INT by 10%."
+  },
+  {
+    "Move": "Pit Bomb",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 105,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Magic attack, 105 Fire damage to one foe."
+  },
+  {
+    "Move": "Dark Pupil",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 110,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Physical attack, 110 Dark damage to one foe. 20% chance of poisoning target."
+  },
+  {
+    "Move": "Cold Flame",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 100,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 100 Fire damage to one foe. 10% chance of increasing INT by 10%."
+  },
+  {
+    "Move": "Unidentified Flying Kiss",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 95,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Magic attack, 95 Dark damage to one foe. 15% chance of dotting target."
+  },
+  {
+    "Move": "Tidal Wave",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 65,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Magic attack, 65 Water damage to all foes."
+  },
+  {
+    "Move": "Heaven's Gate",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 100,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 100 Light damage to one foe. 10% chance of instantly killing target."
+  },
+  {
+    "Move": "Winning Knuckle",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 115,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 115 Neutral damage to one foe. 20% chance of stunning target."
+  },
+  {
+    "Move": "Smile Bomber",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 110,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 110 Fire damage to one foe. Always hits."
+  },
+  {
+    "Move": "Lightning Javelin",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 105,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Magic attack, 105 Electric damage to one foe."
+  },
+  {
+    "Move": "Genocide Attack",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 110,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 110 Fire damage to one foe. Tends to critical more often."
+  },
+  {
+    "Move": "Atomic Blaster",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 250,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Physical attack, 250 Electric damage to one foe. Cannot move from recoil for one turn."
+  },
+  {
+    "Move": "Giga Destroyer",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 115,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 115 Fire damage to one foe."
+  },
+  {
+    "Move": "Revenge Flame",
+    "SP Cost": 15,
+    "Type": "Direct",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Counterattack the enemy when you receive a physical or magic attack."
+  },
+  {
+    "Move": "Nuclear Laser",
+    "SP Cost": 30,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, Electric damage to one foe. 30% chance of increasing DEF by 10%."
+  },
+  {
+    "Move": "Energy Bomb",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 100,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Magic attack, 100 Electric damage to one foe. Always hits."
+  },
+  {
+    "Move": "Hearts Attack",
+    "SP Cost": 30,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "INT-penetrating attack, Neutral damage to one foe. 20% chance of confusing target."
+  },
+  {
+    "Move": "Savage Emperor",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 105,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 105 Light damage to one foe."
+  },
+  {
+    "Move": "Trident Revolver",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 40,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "3 physical attacks, 40 Fire damage to one foe."
+  },
+  {
+    "Move": "Lila Shower",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 60,
+    "Attribute": "Plant",
+    "Inheritable": "No",
+    "Description": "Magic attack, 60 Plant damage to all foes. 20% chance of poisoning target."
+  },
+  {
+    "Move": "Golden Triangle I",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 90,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Magic attack, 90 Electric damage to one foe. 5% chance of increasing base stats by 10%."
+  },
+  {
+    "Move": "Flower Cannon",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 105,
+    "Attribute": "Plant",
+    "Inheritable": "No",
+    "Description": "Magic attack, 105 Plant damage to one foe."
+  },
+  {
+    "Move": "Dead or Alive",
+    "SP Cost": 25,
+    "Type": "Magic",
+    "Power": 110,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Magic attack, 110 Neutral damage to one foe. 10% to inflict a status effect, 5% chance of instantly killing target."
+  },
+  {
+    "Move": "Darkness Wave",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 35,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "2 magic attacks, 35 Dark damage to all foes."
+  },
+  {
+    "Move": "Wolf Claw",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 120,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 120 Neutral damage to one foe."
+  },
+  {
+    "Move": "Full Moon Kick",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 110,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 110 Earth damage to one foe. 30% chance of increasing SPD by 10%."
+  },
+  {
+    "Move": "Pandora Dialogue",
+    "SP Cost": 15,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Reduces HP of all foes by 20%. Receive damage equal to 10% of HP from recoil."
+  },
+  {
+    "Move": "Blade of the Dragon King",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "3-6 physical attacks, 30 Light damage to one foe."
+  },
+  {
+    "Move": "The Ray of Victory",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 100,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Physical attack, 100 Light damage to all. Always hits. 10% chance increasing SPD by 10%."
+  },
+  {
+    "Move": "Brain Rupture",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 115,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Magic attack, 115 Electric damage to one foe. 20% chance of confusing target."
+  },
+  {
+    "Move": "Megadeath",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 95,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Magic attack, 95 Dark damage to all foes."
+  },
+  {
+    "Move": "Positron Laser",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 150,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Physical attack, 150 Light damage to one foe."
+  },
+  {
+    "Move": "Arctic Blizzard",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 125,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Physical attack, 125 Water damage to one foe. 25% chance of stunning target."
+  },
+  {
+    "Move": "Venom Infusion",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 135,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Physical attack, 135 Dark damage to one foe. 30% chance of poisoning target."
+  },
+  {
+    "Move": "Terra Force",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 90,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 90 Fire damage to all foes. 30% chance of increasing ATK by 20%."
+  },
+  {
+    "Move": "Pendragon's Glory",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 135,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "Physical attack, 135 Wind damage to one foe."
+  },
+  {
+    "Move": "Eden's Javelin",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 120,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 120 Light damage to one foe. 30% chance of increasing INT by 20%."
+  },
+  {
+    "Move": "Will-O'-Wisp Slash",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "2 physical attacks, 65 Fire damage to one foe."
+  },
+  {
+    "Move": "Demonic Disaster",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 140,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Physical attack, 140 Dark damage to one foe."
+  },
+  {
+    "Move": "Quake!Blast!Fire!Father!",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 35,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "4 physical attacks, 35 Fire damage to one foe."
+  },
+  {
+    "Move": "Taizoukai Mandala",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 70,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Magic attack, 70 Dark damage to all foes. Cancel target's positive effects."
+  },
+  {
+    "Move": "Dimension Scissor",
+    "SP Cost": 40,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Plant",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, double Plant damage to one foe. Tends to critical more often."
+  },
+  {
+    "Move": "Destruction Crush",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 80,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Magic attack, 80 Earth damage to all foes."
+  },
+  {
+    "Move": "Waltz's End",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "3 physical attacks, 30 Neutral damage to all foes."
+  },
+  {
+    "Move": "Heaven's Judgment",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 90,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 90 Light damage to all foes. Tends to critical more often."
+  },
+  {
+    "Move": "Howling Crusher",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "2 physical attacks, 65 Earth damage to one foe."
+  },
+  {
+    "Move": "Amethyst Mandala",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 70,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 70 Light damage to all foes. Cancel target's positive effects."
+  },
+  {
+    "Move": "Judgement of the Blade",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "5 physical attacks, 30 Neutral damage to one foe."
+  },
+  {
+    "Move": "GeoGrey Sword",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 130,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 130 Fire damage to one foe. Increases ATK by 10%."
+  },
+  {
+    "Move": "Justice Kick",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 130,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 130 Neutral damage to one foe. 1% chance of increasing ATK by 50%."
+  },
+  {
+    "Move": "Bifrost",
+    "SP Cost": 25,
+    "Type": "Magic",
+    "Power": 120,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 120 Light damage to one foe. Increases SPD by 10%."
+  },
+  {
+    "Move": "Strike of the Seven Stars",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 15,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "7 magic attacks, 15 Light damage to all foes."
+  },
+  {
+    "Move": "Burst Shot",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 50,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "2 physical attacks, 50 Fire damage to all foes."
+  },
+  {
+    "Move": "Mach Stinger V",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 20,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "6 physical attacks, 20 Electric damage to one foe. Tends to critical more often."
+  },
+  {
+    "Move": "Soul Core Attack",
+    "SP Cost": 40,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, double Earth damage to one foe."
+  },
+  {
+    "Move": "Good Night Moon",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 125,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 125 Light damage to one foe. Puts target to sleep."
+  },
+  {
+    "Move": "Catastrophe Cannon",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 80,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "3 physical attacks, 80 Fire damage to a foe. Cannot move from recoil for one turn."
+  },
+  {
+    "Move": "Flame Inferno",
+    "SP Cost": 25,
+    "Type": "Magic",
+    "Power": 90,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Magic attack, 90 Fire damage to all foes."
+  },
+  {
+    "Move": "Lightning Joust",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 140,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Physical attack, 140 Light damage to one foe. 30% chance of increasing DEF by 10%."
+  },
+  {
+    "Move": "Wyvern's Breath",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 110,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "Physical attack, 110 Wind damage to all foes. Receive recoil damage equal to 20% of HP."
+  },
+  {
+    "Move": "Extinction Wave",
+    "SP Cost": 25,
+    "Type": "Magic",
+    "Power": 80,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 80 Light damage to all foes. Always hits."
+  },
+  {
+    "Move": "Vulcan Crusher",
+    "SP Cost": 30,
+    "Type": "Physical",
+    "Power": 145,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 145 Earth damage to one foe. 35% chance of stunning target. 95% accuracy."
+  },
+  {
+    "Move": "Atomic Ray",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 125,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Physical attack, 125 Electric damage to one foe. 20% chance of stunning target."
+  },
+  {
+    "Move": "Pandemonium Lost",
+    "SP Cost": 25,
+    "Type": "Magic",
+    "Power": 80,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Magic attack, 80 Dark damage to all foes, absorbs 20% into HP."
+  },
+  {
+    "Move": "Flashy Boss Punch",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 130,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Physical attack, 130 Light damage to one foe. 50% chance of stunning target."
+  },
+  {
+    "Move": "Trump Sword",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 35,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "4 magic attacks, 35 Neutral damage to one foe."
+  },
+  {
+    "Move": "Puppet Pummel",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 125,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 125 Earth damage to one foe. 25% chance of stunning target."
+  },
+  {
+    "Move": "Platinum Junk",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "4 physical attacks, 30 Earth damage to one foe. 30% chance of reducing target's ATK by 10%."
+  },
+  {
+    "Move": "Dark Terra Force",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 100,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Physical attack, 100 Dark damage to all foes. 30% chance of increasing DEF by 20%."
+  },
+  {
+    "Move": "Smile Warhead",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 130,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 130 Neutral damage to one foe. 50% chance to cause knockback."
+  },
+  {
+    "Move": "Sorrow Blue",
+    "SP Cost": 40,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "INT-penetrating attack, Water damage to all foes. 25% chance of putting target to sleep."
+  },
+  {
+    "Move": "Giga Blaster",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 120,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Magic attack, 120 Electric damage to one foe."
+  },
+  {
+    "Move": "Double Impact",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 20,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "8 physical attacks, 20 Dark damage to one foe. 90% accuracy."
+  },
+  {
+    "Move": "Eternal Nightmare",
+    "SP Cost": 50,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "INT-penetrating attack, Dark damage to all foes. 50% chance of putting target to sleep."
+  },
+  {
+    "Move": "Starlight Explosion",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 80,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Magic attack, 80 Fire damage to all foes."
+  },
+  {
+    "Move": "Fire Tornado",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 80,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 80 Light damage to all foes."
+  },
+  {
+    "Move": "Tomahawk Stinger",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 130,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 130 Neutral damage to one foe. 15% chance of confusing target."
+  },
+  {
+    "Move": "Chaos Degradation",
+    "SP Cost": 25,
+    "Type": "Direct",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Reduces HP of all foes by 25%."
+  },
+  {
+    "Move": "Ocean Love",
+    "SP Cost": 20,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Restore HP to all battle members and recover all status effects."
+  },
+  {
+    "Move": "Strike Roll",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 140,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 140 Neutral damage to one foe. Tends to critical more often."
+  },
+  {
+    "Move": "Full Moon Blaster",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 135,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Physical attack, 135 Light damage to one foe. Always hits."
+  },
+  {
+    "Move": "Infinity Cannon",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 115,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Physical attack, 115 Electric damage to all foes. 80% accuracy."
+  },
+  {
+    "Move": "Banana Slip",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 115,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Magic attack, 115 Dark damage to one foe. 80% chance of stunning target."
+  },
+  {
+    "Move": "Ice Wolf Claw",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 45,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "2 physical attacks, 45 Water damage to all foes."
+  },
+  {
+    "Move": "River of Power",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 120,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Magic attack, 120 Water damage to one foe."
+  },
+  {
+    "Move": "Terrors Cluster",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 125,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Physical attack, 125 Electric damage to one foe. 25% chance of paralyzing target."
+  },
+  {
+    "Move": "Biting Crush",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 145,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 145 Neutral damage to one foe. 15% chance of instantly killing target."
+  },
+  {
+    "Move": "Phantom Pain",
+    "SP Cost": 50,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "INT-penetrating attack, triple Dark damage to one foe. 35% chance of poisoning target."
+  },
+  {
+    "Move": "Celestial Blade",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 80,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "Magic attack, 80 Electric damage to all foes."
+  },
+  {
+    "Move": "Spiral Masquerade",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 30,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "4 physical attacks, 30 Dark damage to one foe. 30% chance of increasing SPD by 20%."
+  },
+  {
+    "Move": "Thorn Whip",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 120,
+    "Attribute": "Plant",
+    "Inheritable": "No",
+    "Description": "Physical attack, 120 Plant damage to one foe, absorbs 50% into HP. 15% chance of paralyzing target."
+  },
+  {
+    "Move": "Seven's Fantasia",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 75,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 75 Light damage to all foes. 20% chance of confusing target."
+  },
+  {
+    "Move": "Lightning Spear",
+    "SP Cost": 40,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Electric",
+    "Inheritable": "No",
+    "Description": "INT-penetrating attack, double Electric damage to one foe. Tends to critical more often."
+  },
+  {
+    "Move": "Corona Destroyer",
+    "SP Cost": 50,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, double Dark damage to one foe. Absorbs 20% of the damage as HP."
+  },
+  {
+    "Move": "Dark Roar",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 130,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Physical attack, 130 Dark damage to one foe. 90% accuracy, tends to critical more often."
+  },
+  {
+    "Move": "Fenrir Sword",
+    "SP Cost": 15,
+    "Type": "Physical",
+    "Power": 130,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Physical attack, 130 Water damage to one foe. 15% chance of instantly killing target."
+  },
+  {
+    "Move": "Final Shining Burst",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 200,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 200 Fire damage to all foes. Decreases ATK by 10%."
+  },
+  {
+    "Move": "Full Moon Meteor Impact",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 120,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Physical attack, 120 Light damage to one foe. 30% chance of stunning and tends to critical."
+  },
+  {
+    "Move": "Mourning Dance",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 20,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "8 physical attacks, 20 Dark damage to one foe. Damage tends to fluctuate."
+  },
+  {
+    "Move": "Aguichant L\\E8vres",
+    "SP Cost": 30,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "INT-penetrating Light attack on one foe and absorbs 50% of the damage as HP."
+  },
+  {
+    "Move": "Omni Sword",
+    "SP Cost": 30,
+    "Type": "Physical",
+    "Power": 150,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 150 Neutral damage to one foe. 10% chance of dotting target."
+  },
+  {
+    "Move": "Transcendent Sword",
+    "SP Cost": 30,
+    "Type": "Physical",
+    "Power": 115,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 115 Fire damage to all foes."
+  },
+  {
+    "Move": "Gift of Darkness",
+    "SP Cost": 60,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, triple Dark damage to one foe."
+  },
+  {
+    "Move": "Divine Atonement",
+    "SP Cost": 30,
+    "Type": "Magic",
+    "Power": 105,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 105 Light damage to all foes."
+  },
+  {
+    "Move": "Bantyo Blade",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 150,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 150 Neutral damage to one foe. Damage tends to fluctuate."
+  },
+  {
+    "Move": "Flaming Fist",
+    "SP Cost": 10,
+    "Type": "Physical",
+    "Power": 50,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 50 Fire damage to all foes."
+  },
+  {
+    "Move": "S-Gold Solar Storm",
+    "SP Cost": 25,
+    "Type": "Magic",
+    "Power": 75,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 75 Light damage to all foes. Increases DEF by 10%."
+  },
+  {
+    "Move": "Golden Triangle",
+    "SP Cost": 20,
+    "Type": "Magic",
+    "Power": 110,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 110 Light damage to one foe. Increases base stats by 10%."
+  },
+  {
+    "Move": "Soul Digitalization",
+    "SP Cost": 25,
+    "Type": "Magic",
+    "Power": 95,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Magic attack, 95 Neutral damage to all foes. 5% chance of instantly killing target."
+  },
+  {
+    "Move": "Victory Sword",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 65,
+    "Attribute": "Wind",
+    "Inheritable": "No",
+    "Description": "2 physical attacks, 65 Wind damage to one foe."
+  },
+  {
+    "Move": "Great Tornado",
+    "SP Cost": 40,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, double Fire damage to one foe."
+  },
+  {
+    "Move": "Dragonic Impact",
+    "SP Cost": 50,
+    "Type": "Physical",
+    "Power": 100,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "Physical attack, 100 Fire damage to all foes. Also knocks back targets."
+  },
+  {
+    "Move": "Judecca Prison",
+    "SP Cost": 25,
+    "Type": "Magic",
+    "Power": 115,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Magic attack, 115 Dark damage to one foe. Always hits and undoes any stat reductions."
+  },
+  {
+    "Move": "Table Flip",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 100,
+    "Attribute": "Earth",
+    "Inheritable": "No",
+    "Description": "Physical attack, 100 Earth damage to all foes. 70% accuracy. Tends to critical more often."
+  },
+  {
+    "Move": "Breath of the Gods",
+    "SP Cost": 25,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Nullifies any damage received until next turn."
+  },
+  {
+    "Move": "Weltgeist",
+    "SP Cost": 25,
+    "Type": "Support",
+    "Power": 0,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Nullify all received damage until the next turn, and counterattacks when receiving physical or magic attacks."
+  },
+  {
+    "Move": "Odin's Breath",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 105,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Physical attack, 105 Water damage to all foes. 10% chance of putting target to sleep."
+  },
+  {
+    "Move": "Shield of the Just",
+    "SP Cost": 25,
+    "Type": "Magic",
+    "Power": 115,
+    "Attribute": "Light",
+    "Inheritable": "No",
+    "Description": "Magic attack, 115 Light damage to one foe. Always hits. Cancels negative effects on itself."
+  },
+  {
+    "Move": "Dragon's Roar",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 55,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "2 physical attacks, 55 Fire damage to a foe and absorbs 50% of the damage as HP."
+  },
+  {
+    "Move": "Black Aura Blast",
+    "SP Cost": 25,
+    "Type": "Magic",
+    "Power": 110,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "Magic attack, 110 Dark damage to one foe. Decrease target's DEF by 10%"
+  },
+  {
+    "Move": "Black Tornado",
+    "SP Cost": 40,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, double Dark damage to one foe."
+  },
+  {
+    "Move": "Garuru Tomahawk",
+    "SP Cost": 20,
+    "Type": "Physical",
+    "Power": 140,
+    "Attribute": "Neutral",
+    "Inheritable": "No",
+    "Description": "Physical attack, 140 Neutral damage to one foe. Always hits."
+  },
+  {
+    "Move": "Fist of Athena",
+    "SP Cost": 50,
+    "Type": "Physical",
+    "Power": 0,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "DEF-penetrating attack, triple Fire damage to one foe. 30% chance of stunning target."
+  },
+  {
+    "Move": "Supreme Cannon",
+    "SP Cost": 30,
+    "Type": "Magic",
+    "Power": 130,
+    "Attribute": "Water",
+    "Inheritable": "No",
+    "Description": "Magic attack, 130 Water damage to one foe."
+  },
+  {
+    "Move": "Dark Prominence",
+    "SP Cost": 30,
+    "Type": "Magic",
+    "Power": 0,
+    "Attribute": "Dark",
+    "Inheritable": "No",
+    "Description": "INT-penetrating Dark attack to one foe. 50% chance of crystallizing target."
+  },
+  {
+    "Move": "Plasma Shoot",
+    "SP Cost": 25,
+    "Type": "Physical",
+    "Power": 35,
+    "Attribute": "Fire",
+    "Inheritable": "No",
+    "Description": "3 physical attacks, 35 Fire damage to all foes."
+  }
+]

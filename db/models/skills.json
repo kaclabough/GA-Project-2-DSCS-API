@@ -1,0 +1,346 @@
+[
+  {
+    "Name": "Adroit Wisdom",
+    "Description": "Increases INT by 15%."
+  },
+  {
+    "Name": "All-Rounder",
+    "Description": "Increases ATK, DEF, INT and SPD by 5%."
+  },
+  {
+    "Name": "Analyze",
+    "Description": "Increases scan values by 10%."
+  },
+  {
+    "Name": "Animal Colosseum",
+    "Description": "Increases damage from Earth skills by 15%."
+  },
+  {
+    "Name": "Aus Generics",
+    "Description": "Increases SPD and EVA by 25% when HP drops below 25%."
+  },
+  {
+    "Name": "Backwater Camp",
+    "Description": "Increases damage given by 20%, but also increases damage received by 20%."
+  },
+  {
+    "Name": "Battle Sense",
+    "Description": "Increases ATK by 50% when HP drops below 10%."
+  },
+  {
+    "Name": "Blaster",
+    "Description": "Increases ATK by 10% and amount of HP received from absorption effects by 30%."
+  },
+  {
+    "Name": "Bull's-Eye",
+    "Description": "Increases ACU by 15%."
+  },
+  {
+    "Name": "Caledfwlch Dive",
+    "Description": "Increases ACU and EVA by 5%, and CRT by 10%."
+  },
+  {
+    "Name": "Chaos Expert",
+    "Description": "Increases ATK and INT by 10%."
+  },
+  {
+    "Name": "Crimson Formation",
+    "Description": "Increases damage from Electric and Wind skills by 10%."
+  },
+  {
+    "Name": "D-Brigade",
+    "Description": "Increases ACU and CRT by 10%."
+  },
+  {
+    "Name": "Deep Savers",
+    "Description": "Increases damage from Water skills by 15%."
+  },
+  {
+    "Name": "Deep Sea Slumber",
+    "Description": "10% chance of putting target to sleep when attacking."
+  },
+  {
+    "Name": "Destiny",
+    "Description": "Restores 3% of Max HP and SP every turn."
+  },
+  {
+    "Name": "Destroyer",
+    "Description": "10% chance of instantly killing target when attacking."
+  },
+  {
+    "Name": "Dragon Mode",
+    "Description": "Increases DEF and INT by 10%."
+  },
+  {
+    "Name": "Dragon's Roar",
+    "Description": "Increases damage from Fire skills by 15%."
+  },
+  {
+    "Name": "Dragon's Wrath",
+    "Description": "Increases ATK by 15%."
+  },
+  {
+    "Name": "Envy",
+    "Description": "Increases damage done to targets by 15% if they are Mega or above."
+  },
+  {
+    "Name": "Evil Heart",
+    "Description": "Increases amount of SP received from absorption effects by 30%."
+  },
+  {
+    "Name": "Fairy Protection",
+    "Description": "Increases given stat boost effects by 5%."
+  },
+  {
+    "Name": "Feint",
+    "Description": "Increases EVA by 7%."
+  },
+  {
+    "Name": "Feral Pulse",
+    "Description": "Increases SPD by 15%."
+  },
+  {
+    "Name": "Fight or Flight",
+    "Description": "Increases ATK by 20% when HP drops below 50%."
+  },
+  {
+    "Name": "Fighter Mode",
+    "Description": "Increases ATK and SPD by 10%."
+  },
+  {
+    "Name": "Flower Guard",
+    "Description": "Prevents poison."
+  },
+  {
+    "Name": "Freyr",
+    "Description": "Increases damage from Wind and Light skills by 10%."
+  },
+  {
+    "Name": "Full Functionality",
+    "Description": "Prevents sleep."
+  },
+  {
+    "Name": "Furious Howl",
+    "Description": "30% chance of instantly killing target when attacking if lower than Ultimate."
+  },
+  {
+    "Name": "Gehenna",
+    "Description": "Reduces damage received from magic attacks by 10% and converts it to HP."
+  },
+  {
+    "Name": "Gluttony",
+    "Description": "Reduces HP by 5% of Max HP and increases ATK by 5% every turn."
+  },
+  {
+    "Name": "Greed",
+    "Description": "Increases amount of HP and SP received from absorption effects by 20%."
+  },
+  {
+    "Name": "Haymaker",
+    "Description": "Increases CRT by 15%."
+  },
+  {
+    "Name": "Hermitic Loner",
+    "Description": "Increases damage to Royal Knights by 20%."
+  },
+  {
+    "Name": "High Resolution",
+    "Description": "Prevents dotting."
+  },
+  {
+    "Name": "Holy Knight",
+    "Description": "Increases SPD by 10%, and damage from Fire and Light skills by 10%."
+  },
+  {
+    "Name": "Holy Ring",
+    "Description": "Increases HP recovery effects by 20%."
+  },
+  {
+    "Name": "Holy Salvation",
+    "Description": "Reduces damage received from species with bad affinity by 15%."
+  },
+  {
+    "Name": "Immobility",
+    "Description": "Prevents stunning."
+  },
+  {
+    "Name": "Innocent Pupil",
+    "Description": "Increase accuracy and evasion by 1%."
+  },
+  {
+    "Name": "Ironclad Defense",
+    "Description": "Increases DEF by 15%."
+  },
+  {
+    "Name": "Ironclad Fortification",
+    "Description": "Reduces damage received by 10%."
+  },
+  {
+    "Name": "Justice Genome",
+    "Description": "Increases damage from Light skills by 15%."
+  },
+  {
+    "Name": "Justice Union",
+    "Description": "Increases probability of combos occurring and continuing by 10%."
+  },
+  {
+    "Name": "Leopard Mode",
+    "Description": "Increases EVA and CRT by 5%, and SPD by 10%."
+  },
+  {
+    "Name": "Lust",
+    "Description": "Reduces damage received from physical attacks by 10% and converts it to SP."
+  },
+  {
+    "Name": "Master's Disposition",
+    "Description": "If HP is over 50% of Max HP, a fatal attack will instead leave you with 1 HP."
+  },
+  {
+    "Name": "Meditation",
+    "Description": "Restores 5% of Max HP every turn."
+  },
+  {
+    "Name": "Menace",
+    "Description": "10% chance of stunning target when attacking."
+  },
+  {
+    "Name": "Metal Empire",
+    "Description": "Increases damage from Electric skills by 15%."
+  },
+  {
+    "Name": "Millionaire",
+    "Description": "Increases YEN earned in battle."
+  },
+  {
+    "Name": "Miracle",
+    "Description": "Has a 10% chance of reducing damage received by 30%."
+  },
+  {
+    "Name": "Mirage Burst",
+    "Description": "Increases physical damage received by 25%, but also increases INT by 20%."
+  },
+  {
+    "Name": "Moon-Kissed Blade",
+    "Description": "Increases damage from Water and Light skills by 10%."
+  },
+  {
+    "Name": "Muscle Monkey Suit",
+    "Description": "Reduces physical damage received by 15%."
+  },
+  {
+    "Name": "Mysterious Scale",
+    "Description": "Decreases received stat reduction effects by 5%."
+  },
+  {
+    "Name": "Mystic Protection",
+    "Description": "Cuts the rate of abnormal statuses received by 50%."
+  },
+  {
+    "Name": "Nature Spirits",
+    "Description": "Increases damage from Plant skills by 15%."
+  },
+  {
+    "Name": "Nightmare Soldiers",
+    "Description": "Increases damage from Dark skills by 15%."
+  },
+  {
+    "Name": "Numbing Waves",
+    "Description": "Prevents paralysis."
+  },
+  {
+    "Name": "Obsidian Knight",
+    "Description": "Increases DEF by 10%, and damage from Water and Dark skills by 10%."
+  },
+  {
+    "Name": "Ocean Love",
+    "Description": "Restores 5% of Max SP every turn."
+  },
+  {
+    "Name": "Parallel World Tactician",
+    "Description": "Increases Light and Dark skill damage by 10% and increases HP recovery effects by 10%."
+  },
+  {
+    "Name": "Phoenix Feathers",
+    "Description": "Prevents instant death."
+  },
+  {
+    "Name": "Platinum Bonus",
+    "Description": "Increases EXP earned in battle."
+  },
+  {
+    "Name": "Poison Thorns",
+    "Description": "10% chance of poisoning target when attacking."
+  },
+  {
+    "Name": "Pride",
+    "Description": "Increases damage from all attribute skills by 5%."
+  },
+  {
+    "Name": "Primal Trooper",
+    "Description": "Increases damage from Neutral skills by 15%."
+  },
+  {
+    "Name": "Royal Commando",
+    "Description": "10% chance of paralyzing target when attacking."
+  },
+  {
+    "Name": "Scavenge",
+    "Description": "Increases foe drop rate for items."
+  },
+  {
+    "Name": "Shining Burst",
+    "Description": "Increases Dark damage received by 25%, but also increases ATK by 25%."
+  },
+  {
+    "Name": "Sloth",
+    "Description": "Prevents Sleep, and has a 30% chance of putting target to sleep when attacking."
+  },
+  {
+    "Name": "Strange Dance",
+    "Description": "10% chance of confusing target when attacking."
+  },
+  {
+    "Name": "Strategist",
+    "Description": "Reduces SP consumed by skills by 20%."
+  },
+  {
+    "Name": "Supreme Focus",
+    "Description": "Prevents confusion."
+  },
+  {
+    "Name": "Swiftness",
+    "Description": "Makes sure you always move first in battle."
+  },
+  {
+    "Name": "Tifaret",
+    "Description": "Restores 5% of max HP every turn, and increases HP received from absorption effects by 20%."
+  },
+  {
+    "Name": "To Fight Another Day",
+    "Description": "Makes it easier to escape from battle."
+  },
+  {
+    "Name": "Trickster",
+    "Description": "10% chance of dotting target when attacking."
+  },
+  {
+    "Name": "Unmatched Cruelty",
+    "Description": "Increases damage from attributes with good affinity by 15%."
+  },
+  {
+    "Name": "Unstable Singularity",
+    "Description": "Increases damage given by 30%, but also increases damage received by 30%."
+  },
+  {
+    "Name": "Wind Guardians",
+    "Description": "Increases damage from Wind skills by 15%."
+  },
+  {
+    "Name": "Wrath",
+    "Description": "Raises ATK and INT by 25% when HP drops below 25%."
+  },
+  {
+    "Name": "Wyvern",
+    "Description": "Increases damage from Fire and Wind skills by 10%."
+  }
+]
