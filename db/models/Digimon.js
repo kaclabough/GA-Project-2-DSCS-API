@@ -22,3 +22,5 @@ const Digimon = new mongoose.Schema({
         }
     ]
 })
+
+module.exports = mongoose.model("Digimon", Digimon);
