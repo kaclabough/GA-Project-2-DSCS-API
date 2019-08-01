@@ -1,0 +1,23 @@
+{
+  "name": "ga-project-2-dscs-api",
+  "version": "1.0.0",
+  "description": "basic api for Digimon Story: Cyber Sleuth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirAirdude/GA-Project-2-DSCS-API.git"
+  },
+  "author": "Kyle Clabough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirAirdude/GA-Project-2-DSCS-API/issues"
+  },
+  "homepage": "https://github.com/SirAirdude/GA-Project-2-DSCS-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.7"
+  }
+}
