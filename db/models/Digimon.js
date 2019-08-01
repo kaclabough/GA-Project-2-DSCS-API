@@ -8,19 +8,19 @@ const Digimon = new mongoose.Schema({
   },
   stage: String,
   type: String,
-  attribute: String,
-  degeneratesTo: [
-    {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: "Digimon"
-    }
-  ],
-  digivolution: [
-    {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: "Digimon"
-    }
-  ]
+  attribute: String
+  //   degeneratesTo: [
+  //     {
+  //       type: mongoose.Schema.Types.ObjectId,
+  //       ref: "Digimon"
+  //     }
+  //   ],
+  //   digivolvesTo: [
+  //     {
+  //       type: mongoose.Schema.Types.ObjectId,
+  //       ref: "Digimon"
+  //     }
+  //   ]
 });
 
 module.exports = mongoose.model("Digimon", Digimon);
