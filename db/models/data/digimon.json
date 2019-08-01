@@ -13,7 +13,7 @@
     "lvl50Def": 69,
     "lvl50Int": 68,
     "lvl50Spd": 95,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": null,
     "digivolvesTo": ["Tsumemon", "Pagumon"]
   },
@@ -31,7 +31,7 @@
     "lvl50Def": 76,
     "lvl50Int": 69,
     "lvl50Spd": 68,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": null,
     "digivolvesTo": ["Tanemon", "Yokomon", "Motimon"]
   },
@@ -49,7 +49,7 @@
     "lvl50Def": 87,
     "lvl50Int": 50,
     "lvl50Spd": 75,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": null,
     "digivolvesTo": ["Tsunomon", "Nyaromon"]
   },
@@ -67,7 +67,7 @@
     "lvl50Def": 95,
     "lvl50Int": 76,
     "lvl50Spd": 61,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": null,
     "digivolvesTo": ["Koromon", "Wanyamon"]
   },
@@ -85,7 +85,7 @@
     "lvl50Def": 59,
     "lvl50Int": 95,
     "lvl50Spd": 86,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": null,
     "digivolvesTo": ["Tokomon", "Bukamon"]
   },
@@ -103,7 +103,7 @@
     "lvl50Def": 93,
     "lvl50Int": 52,
     "lvl50Spd": 76,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": ["Botamon"],
     "digivolvesTo": ["Agumon", "Guilmon", "ToyAgumon", "Hackmon"]
   },
@@ -121,7 +121,7 @@
     "lvl50Def": 82,
     "lvl50Int": 73,
     "lvl50Spd": 69,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": ["Pabumon"],
     "digivolvesTo": ["Lalamon", "Palmon", "Renamon"]
   },
@@ -139,7 +139,7 @@
     "lvl50Def": 92,
     "lvl50Int": 54,
     "lvl50Spd": 76,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": ["Punimon"],
     "digivolvesTo": ["Gabumon", "Gabumon (Blk)", "Goblimon", "Veemon"]
   },
@@ -157,7 +157,7 @@
     "lvl50Def": 64,
     "lvl50Int": 54,
     "lvl50Spd": 93,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": ["Kuramon"],
     "digivolvesTo": ["Agumon (Blk)", "Keramon", "DemiDevimon"]
   },
@@ -175,7 +175,7 @@
     "lvl50Def": 74,
     "lvl50Int": 74,
     "lvl50Spd": 103,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": ["Poyomon"],
     "digivolvesTo": ["Patamon", "Falcomon", "Hawkmon", "Lucemon"]
   },
@@ -193,7 +193,7 @@
     "lvl50Def": 64,
     "lvl50Int": 103,
     "lvl50Spd": 94,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": ["Punimon"],
     "digivolvesTo": ["Armadillomon", "Terriermon", "Salamon"]
   },
@@ -211,7 +211,7 @@
     "lvl50Def": 63,
     "lvl50Int": 102,
     "lvl50Spd": 93,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": ["Kuramon"],
     "digivolvesTo": ["Impmon", "Gazimon", "Lopmon"]
   },
@@ -229,7 +229,7 @@
     "lvl50Def": 82,
     "lvl50Int": 75,
     "lvl50Spd": 69,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": ["Pabumon"],
     "digivolvesTo": ["Elecmon", "Biyomon", "Wormmon"]
   },
@@ -247,7 +247,7 @@
     "lvl50Def": 74,
     "lvl50Int": 103,
     "lvl50Spd": 69,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": ["Poyomon"],
     "digivolvesTo": ["Otamamon", "Gomamon", "Syakomon", "Betamon"]
   },
@@ -265,7 +265,7 @@
     "lvl50Def": 81,
     "lvl50Int": 78,
     "lvl50Spd": 69,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": ["Pabumon"],
     "digivolvesTo": ["Gotsumon", "Solarmon", "Tentomon", "Hagurumon"]
   },
@@ -283,7 +283,7 @@
     "lvl50Def": 75,
     "lvl50Int": 75,
     "lvl50Spd": 82,
-    "support" : "Innocent Eyes",
+    "skill" : "Innocent Eyes",
     "degeneratesTo": ["Botamon"],
     "digivolvesTo": ["Kudamon", "Gaomon", "Dorumon"]
   },
@@ -301,7 +301,7 @@
     "lvl50Def": 103,
     "lvl50Int": 54,
     "lvl50Spd": 86,
-    "support" : "Dragon's Roar",
+    "skill" : "Dragon's Roar",
     "degeneratesTo": ["Koromon"],
     "digivolvesTo": ["Greymon", "GeoGreymon", "Sukamon", "Tyrannomon", "Meramon"]
   },
@@ -319,7 +319,7 @@
     "lvl50Def": 108,
     "lvl50Int": 56,
     "lvl50Spd": 85,
-    "support" : "Dragon's Wrath",
+    "skill" : "Dragon's Wrath",
     "degeneratesTo": ["Tsumemon"],
     "digivolvesTo": ["Growlmon", "Greymon (Blue)", "Cyclonemon", "Tankmon", "Tyrannomon"]
   },
@@ -337,7 +337,7 @@
     "lvl50Def": 111,
     "lvl50Int": 65,
     "lvl50Spd": 72,
-    "support" : "Ironclad Defense",
+    "skill" : "Ironclad Defense",
     "degeneratesTo": ["Nyaromon"],
     "digivolvesTo": ["Ankylomon", "Geremon", "GoldNumemon", "Cyclonemon", "Tankmon"]
   },
@@ -355,7 +355,7 @@
     "lvl50Def": 65,
     "lvl50Int": 114,
     "lvl50Spd": 102,
-    "support" : "Adroit Wisdom",
+    "skill" : "Adroit Wisdom",
     "degeneratesTo": ["Pagumon"],
     "digivolvesTo": ["IceDevimon", "Wizardmon", "Ogremon", "Socerimon", "Bakemon", "BlackGatomon"]
   },
@@ -373,7 +373,7 @@
     "lvl50Def": 79,
     "lvl50Int": 79,
     "lvl50Spd": 90,
-    "support" : "Metal Empire",
+    "skill" : "Metal Empire",
     "degeneratesTo": ["Yokomon"],
     "digivolvesTo": ["Garurumon", "Garurumon (Blk)", "Geremon", "Sukamon", "Nanimon", "Leomon"]
   },
@@ -391,7 +391,7 @@
     "lvl50Def": 75,
     "lvl50Int": 113,
     "lvl50Spd": 78,
-    "support" : "Deep Sea Slumber",
+    "skill" : "Deep Sea Slumber",
     "degeneratesTo": ["Bukamon"],
     "digivolvesTo": ["ShellNumemon", "Gekomon", "Seadramon", "Numemon"]
   },
@@ -409,7 +409,7 @@
     "lvl50Def": 74,
     "lvl50Int": 66,
     "lvl50Spd": 101,
-    "support" : "Feint",
+    "skill" : "Feint",
     "degeneratesTo": ["Wanyamon"],
     "digivolvesTo": ["Ogremon", "GaoGamon", "Gargomon", "Leomon", "Togemon"]
   },
@@ -427,7 +427,7 @@
     "lvl50Def": 64,
     "lvl50Int": 59,
     "lvl50Spd": 102,
-    "support" : "Nightmare Soldiers",
+    "skill" : "Nightmare Soldiers",
     "degeneratesTo": ["Pagumon"],
     "digivolvesTo": ["GaoGamon", "Garurumon (Blk)", "Kurisarimon", "Dorugamon", "Nanimon", "Leomon"]
   },
@@ -445,7 +445,7 @@
     "lvl50Def": 81,
     "lvl50Int": 79,
     "lvl50Spd": 91,
-    "support" : "Feral Pulse",
+    "skill" : "Feral Pulse",
     "degeneratesTo": ["Tsunomon"],
     "digivolvesTo": ["Garurumon", "Dorugamon", "Numemon", "Veedramon", "Frigimon"]
   },
@@ -463,7 +463,7 @@
     "lvl50Def": 89,
     "lvl50Int": 74,
     "lvl50Spd": 91,
-    "support" : "Menace",
+    "skill" : "Menace",
     "degeneratesTo": ["Tsunomon"],
     "digivolvesTo": ["Garurumon (Blk)", "Vegiemon", "Frigimon", "Reppamon"]
   },
@@ -481,7 +481,7 @@
     "lvl50Def": 74,
     "lvl50Int": 54,
     "lvl50Spd": 101,
-    "support" : "All-Rounder",
+    "skill" : "All-Rounder",
     "degeneratesTo": ["Koromon"],
     "digivolvesTo": ["GeoGreymon", "Growlmon", "Greymon (Blue)", "Tyrannomon", "Meramon"]
   },
@@ -499,7 +499,7 @@
     "lvl50Def": 74,
     "lvl50Int": 117,
     "lvl50Spd": 105,
-    "support" : "Mystic Protection",
+    "skill" : "Mystic Protection",
     "degeneratesTo": ["Wanyamon"],
     "digivolvesTo": ["Angemon", "GoldNumemon", "Peckmon", "Reppamon"]
   },
@@ -517,7 +517,7 @@
     "lvl50Def": 69,
     "lvl50Int": 61,
     "lvl50Spd": 101,
-    "support" : "Destroyer",
+    "skill" : "Destroyer",
     "degeneratesTo": ["Tsumemon"],
     "digivolvesTo": ["Wizardmon", "Kurisarimon", "Bakemon", "PlatinumSukamon"]
   },
@@ -535,7 +535,7 @@
     "lvl50Def": 118,
     "lvl50Int": 90,
     "lvl50Spd": 72,
-    "support" : "Animal Colosseum",
+    "skill" : "Animal Colosseum",
     "degeneratesTo": ["Motimon"],
     "digivolvesTo": ["Ankylomon", "Clockmon", "Starmon", "Tankmon"]
   },
@@ -553,7 +553,7 @@
     "lvl50Def": 110,
     "lvl50Int": 51,
     "lvl50Spd": 84,
-    "support" : "Haymaker",
+    "skill" : "Haymaker",
     "degeneratesTo": ["Tsunomon"],
     "digivolvesTo": ["Ogremon", "GaoGamon", "Growlmon", "Greymon (Blue)", "Nanimon"]
   },
@@ -571,7 +571,7 @@
     "lvl50Def": 93,
     "lvl50Int": 81,
     "lvl50Spd": 79,
-    "support" : "Deep Savers",
+    "skill" : "Deep Savers",
     "degeneratesTo": ["Bukamon"],
     "digivolvesTo": ["Ankylomon", "Ikkakumon", "Socerimon", "Frigimon"]
   },
@@ -589,7 +589,7 @@
     "lvl50Def": 86,
     "lvl50Int": 112,
     "lvl50Spd": 78,
-    "support" : "Deep Savers",
+    "skill" : "Deep Savers",
     "degeneratesTo": ["Bukamon"],
     "digivolvesTo": ["Ikkakumon", "ShellNumemon", "Gekomon", "Seadramon"]
   },
@@ -607,7 +607,7 @@
     "lvl50Def": 108,
     "lvl50Int": 71,
     "lvl50Spd": 77,
-    "support" : "Full Functionality",
+    "skill" : "Full Functionality",
     "degeneratesTo": ["Motimon"],
     "digivolvesTo": ["Clockmon", "Geremon", "Starmon", "Meramon"]
   },
@@ -625,7 +625,7 @@
     "lvl50Def": 75,
     "lvl50Int": 84,
     "lvl50Spd": 112,
-    "support" : "Bull's-Eye",
+    "skill" : "Bull's-Eye",
     "degeneratesTo": ["Nyaromon"],
     "digivolvesTo": ["Gargomon", "Ikkakumon", "Gatomon", "Rapidmon (Armor)"]
   },
@@ -643,7 +643,7 @@
     "lvl50Def": 110,
     "lvl50Int": 93,
     "lvl50Spd": 73,
-    "support" : "Numbing Waves",
+    "skill" : "Numbing Waves",
     "degeneratesTo": ["Motimon"],
     "digivolvesTo": ["Kabuterimon", "Kuwagamon", "Sunflowmon", "Stingmon", "Waspmon"]
   },
@@ -661,7 +661,7 @@
     "lvl50Def": 112,
     "lvl50Int": 63,
     "lvl50Spd": 71,
-    "support" : "Ironclad Defense",
+    "skill" : "Ironclad Defense",
     "degeneratesTo": ["Koromon"],
     "digivolvesTo": ["Clockmon", "Guardromon", "Greymon", "Sukamon", "Starmon"]
   },
@@ -679,7 +679,7 @@
     "lvl50Def": 79,
     "lvl50Int": 56,
     "lvl50Spd": 101,
-    "support" : "Haymaker",
+    "skill" : "Haymaker",
     "degeneratesTo": ["Wanyamon"],
     "digivolvesTo": ["Guardromon", "Cyclonemon", "Dorugamon", "Waspmon"]
   },
@@ -697,7 +697,7 @@
     "lvl50Def": 110,
     "lvl50Int": 69,
     "lvl50Spd": 71,
-    "support" : "Metal Empire",
+    "skill" : "Metal Empire",
     "degeneratesTo": ["Motimon"],
     "digivolvesTo": ["Guardromon", "Clockmon", "GoldNumemon", "Starmon", "PlatinumSukamon"]
   },
@@ -715,7 +715,7 @@
     "lvl50Def": 74,
     "lvl50Int": 92,
     "lvl50Spd": 90,
-    "support" : "Justice Genome",
+    "skill" : "Justice Genome",
     "degeneratesTo": ["Tokomon"],
     "digivolvesTo": ["ExVeemon", "Angemon", "Gatomon", "Birdramon", "Reppamon"]
   },
@@ -733,7 +733,7 @@
     "lvl50Def": 108,
     "lvl50Int": 63,
     "lvl50Spd": 85,
-    "support" : "Battle Sense",
+    "skill" : "Battle Sense",
     "degeneratesTo": ["Koromon"],
     "digivolvesTo": ["Greymon", "GeoGreymon", "PlatinumSukamon", "Jesmon"]
   },
@@ -751,7 +751,7 @@
     "lvl50Def": 90,
     "lvl50Int": 80,
     "lvl50Spd": 79,
-    "support" : "Poison Thorns",
+    "skill" : "Poison Thorns",
     "degeneratesTo": ["Tanemon"],
     "digivolvesTo": ["Kuwagamon", "Togemon", "Vegiemon", "Sunflowmon", "Woodmon"]
   },
@@ -769,7 +769,7 @@
     "lvl50Def": 76,
     "lvl50Int": 89,
     "lvl50Spd": 111,
-    "support" : "Nightmare Soldiers",
+    "skill" : "Nightmare Soldiers",
     "degeneratesTo": ["Tsumemon"],
     "digivolvesTo": ["Bakemon", "Devimon", "Kyubimon", "Kurisarimon", "IceDevimon"]
   },
@@ -787,7 +787,7 @@
     "lvl50Def": 79,
     "lvl50Int": 85,
     "lvl50Spd": 91,
-    "support" : "Phoenix Feathers",
+    "skill" : "Phoenix Feathers",
     "degeneratesTo": ["Yokomon"],
     "digivolvesTo": ["Kabuterimon", "Aquilamon", "Birdramon", "Kyubimon"]
   },
@@ -805,7 +805,7 @@
     "lvl50Def": 79,
     "lvl50Int": 79,
     "lvl50Spd": 113,
-    "support" : "Wind Guardians",
+    "skill" : "Wind Guardians",
     "degeneratesTo": ["Tokomon"],
     "digivolvesTo": ["Stingmon", "ExVeemon", "Aquilamon", "Peckmon"]
   },
@@ -823,7 +823,7 @@
     "lvl50Def": 74,
     "lvl50Int": 53,
     "lvl50Spd": 101,
-    "support" : "Dragon's Wrath",
+    "skill" : "Dragon's Wrath",
     "degeneratesTo": ["Tsunomon"],
     "digivolvesTo": ["Flamedramon", "Magnamon", "Veedramon", "ExVeemon"]
   },
@@ -841,7 +841,7 @@
     "lvl50Def": 69,
     "lvl50Int": 119,
     "lvl50Spd": 97,
-    "support" : "Holy Ring",
+    "skill" : "Holy Ring",
     "degeneratesTo": ["Nyaromon"],
     "digivolvesTo": ["Frigimon", "Reppamon", "Gatomon", "Veedramon", "Socerimon"]
   },
@@ -859,7 +859,7 @@
     "lvl50Def": 76,
     "lvl50Int": 113,
     "lvl50Spd": 78,
-    "support" : "Mysterious Scale",
+    "skill" : "Mysterious Scale",
     "degeneratesTo": ["Bukamon"],
     "digivolvesTo": ["Gekomon", "Numemon", "Seadramon", "ShellNumemon", "Vegiemon"]
   },
@@ -877,7 +877,7 @@
     "lvl50Def": 79,
     "lvl50Int": 83,
     "lvl50Spd": 114,
-    "support" : "Wind Guardians",
+    "skill" : "Wind Guardians",
     "degeneratesTo": ["Tokomon"],
     "digivolvesTo": ["Meramon", "Aquilamon", "Birdramon", "Peckmon"]
   },
@@ -895,7 +895,7 @@
     "lvl50Def": 87,
     "lvl50Int": 79,
     "lvl50Spd": 79,
-    "support" : "Flower Guard",
+    "skill" : "Flower Guard",
     "degeneratesTo": ["Tanemon"],
     "digivolvesTo": ["Sunflowmon", "Togemon", "Vegiemon", "Woodmon"]
   },
@@ -913,7 +913,7 @@
     "lvl50Def": 104,
     "lvl50Int": 208,
     "lvl50Spd": 119,
-    "support" : "Justice Genome",
+    "skill" : "Justice Genome",
     "degeneratesTo": ["Tokomon"],
     "digivolvesTo": ["Angemon", "Devimon", "Lucemon FM"]
   },
@@ -931,7 +931,7 @@
     "lvl50Def": 74,
     "lvl50Int": 89,
     "lvl50Spd": 93,
-    "support" : "Adroit Wisdom",
+    "skill" : "Adroit Wisdom",
     "degeneratesTo": ["Tanemon"],
     "digivolvesTo": ["BlackGatomon", "Garurumon", "Kyubimon", "Woodmon"]
   },
@@ -949,7 +949,7 @@
     "lvl50Def": 68,
     "lvl50Int": 103,
     "lvl50Spd": 85,
-    "support" : "Animal Colosseum",
+    "skill" : "Animal Colosseum",
     "degeneratesTo": ["Pagumon"],
     "digivolvesTo": ["Gargomon", "Devimon", "BlackGatomon", "Wizardmon"]
   },
@@ -967,7 +967,7 @@
     "lvl50Def": 111,
     "lvl50Int": 90,
     "lvl50Spd": 71,
-    "support" : "Nature Spirits",
+    "skill" : "Nature Spirits",
     "degeneratesTo": ["Yokomon"],
     "digivolvesTo": ["Waspmon", "Kabuterimon", "Kuwagamon", "Stingmon","IceDevimon"]
   },
@@ -985,7 +985,7 @@
     "lvl50Def": 89,
     "lvl50Int": 118,
     "lvl50Spd": 92,
-    "support" : "Supreme Focus",
+    "skill" : "Supreme Focus",
     "degeneratesTo": ["Impmon", "DemiDevimon", "Wormmon"],
     "digivolvesTo": ["Myotismon", "Cherrymon", "LadyDevimon"]
   },
@@ -1003,7 +1003,7 @@
     "lvl50Def": 89,
     "lvl50Int": 89,
     "lvl50Spd": 143,
-    "support" : "Wind Guardians",
+    "skill" : "Wind Guardians",
     "degeneratesTo": ["Biyomon", "Falcomon", "Hawkmon"],
     "digivolvesTo": ["AeroVeedramon", "Garudamon", "Silphymon", "Crowmon"]
   },
@@ -1021,7 +1021,7 @@
     "lvl50Def": 133,
     "lvl50Int": 79,
     "lvl50Spd": 79,
-    "support" : "Ironclad Defense",
+    "skill" : "Ironclad Defense",
     "degeneratesTo": ["Armadillomon", "Gotsumon", "Gomamon"],
     "digivolvesTo": ["MagnaAngemon", "Meteormon", "Shakkoumon", "SkullGreymon"]
   },
@@ -1039,7 +1039,7 @@
     "lvl50Def": 102,
     "lvl50Int": 94,
     "lvl50Spd": 90,
-    "support" : "Deep Savers",
+    "skill" : "Deep Savers",
     "degeneratesTo": ["Gomamon", "Syakomon", "Terriermon"],
     "digivolvesTo": ["MachGaogamon", "Whamon", "Zudomon"]
   },
@@ -1057,7 +1057,7 @@
     "lvl50Def": 79,
     "lvl50Int": 143,
     "lvl50Spd": 118,
-    "support" : "Adroit Wisdom",
+    "skill" : "Adroit Wisdom",
     "degeneratesTo": ["Impmon", "Keramon", "Lopmon"],
     "digivolvesTo": ["SkullMeramon", "Myotismon", "Wisemon"]
   },
@@ -1075,7 +1075,7 @@
     "lvl50Def": 103,
     "lvl50Int": 89,
     "lvl50Spd": 88,
-    "support" : "Strange Dance",
+    "skill" : "Strange Dance",
     "degeneratesTo": ["Palmon", "Lalamon", "Renamon"],
     "digivolvesTo": ["Cherrymon", "Pumpkinmon", "Taomon"]
   },
@@ -1093,7 +1093,7 @@
     "lvl50Def": 94,
     "lvl50Int": 94,
     "lvl50Spd": 118,
-    "support" : "Dragon's Wrath",
+    "skill" : "Dragon's Wrath",
     "degeneratesTo": ["Patamon", "Falcomon", "Veemon"],
     "digivolvesTo": ["MagnaAngemon", "Paildramon", "RizeGreymon"]
   },
@@ -1111,7 +1111,7 @@
     "lvl50Def": 89,
     "lvl50Int": 128,
     "lvl50Spd": 99,
-    "support" : "Justice Genome",
+    "skill" : "Justice Genome",
     "degeneratesTo": ["Kudamon", "Patamon", "Lucemon"],
     "digivolvesTo": ["Garudamon", "MagnaAngemon", "Shakkoumon"]
   },
@@ -1129,7 +1129,7 @@
     "lvl50Def": 118,
     "lvl50Int": 64,
     "lvl50Spd": 97,
-    "support" : "Haymaker",
+    "skill" : "Haymaker",
     "degeneratesTo": ["Impmon", "Gaomon", "Goblimon"],
     "digivolvesTo": ["SkullMeramon", "Digitamamon", "WereGarurumon"]
   },
@@ -1147,7 +1147,7 @@
     "lvl50Def": 138,
     "lvl50Int": 103,
     "lvl50Spd": 79,
-    "support" : "Metal Empire",
+    "skill" : "Metal Empire",
     "degeneratesTo": ["ToyAgumon", "Dorumon", "Hagurumon"],
     "digivolvesTo": ["Andromon", "GrapLeomon", "MetalMamemon", "Datamon"]
   },
@@ -1165,7 +1165,7 @@
     "lvl50Def": 94,
     "lvl50Int": 99,
     "lvl50Spd": 138,
-    "support" : "Feint",
+    "skill" : "Feint",
     "degeneratesTo": ["Gaomon", "Gazimon", "Goblimon"],
     "digivolvesTo": ["GrapLeomon", "MachGaogamon", "WereGarurumon"]
   },
@@ -1183,7 +1183,7 @@
     "lvl50Def": 128,
     "lvl50Int": 116,
     "lvl50Spd": 81,
-    "support" : "Numbing Waves",
+    "skill" : "Numbing Waves",
     "degeneratesTo": ["Tentomon", "Biyomon", "Wormmon"],
     "digivolvesTo": ["MegaKabuterimon", "Cherrymon", "Lilamon"]
   },
@@ -1201,7 +1201,7 @@
     "lvl50Def": 148,
     "lvl50Int": 74,
     "lvl50Spd": 79,
-    "support" : "Scavenge",
+    "skill" : "Scavenge",
     "degeneratesTo": ["Otamamon", "Syakomon", "Betamon"],
     "digivolvesTo": ["BlackKingNumemon", "MegaSeadramon", "ShogunGekomon"]
   },
@@ -1219,7 +1219,7 @@
     "lvl50Def": 99,
     "lvl50Int": 89,
     "lvl50Spd": 108,
-    "support" : "Bull's-Eye",
+    "skill" : "Bull's-Eye",
     "degeneratesTo": ["Gaomon", "Terriermon", "Lopmon"],
     "digivolvesTo": ["WarGrowlmon", "Antylamon", "Rapidmon"]
   },
@@ -1237,7 +1237,7 @@
     "lvl50Def": 94,
     "lvl50Int": 94,
     "lvl50Spd": 138,
-    "support" : "Feral Pulse",
+    "skill" : "Feral Pulse",
     "degeneratesTo": ["Elecmon", "Gabumon", "Renamon"],
     "digivolvesTo": ["DoruGreymon", "Panjyamon", "WereGarurumon", "Zudomon"]
   },
@@ -1255,7 +1255,7 @@
     "lvl50Def": 104,
     "lvl50Int": 79,
     "lvl50Spd": 133,
-    "support" : "Menace",
+    "skill" : "Menace",
     "degeneratesTo": ["Gabumon (Blk)", "Elecmon", "Gazimon"],
     "digivolvesTo": ["WereGarurumon (Blk)", "BlueMeramon", "MachGaogamon"]
   },
@@ -1273,7 +1273,7 @@
     "lvl50Def": 84,
     "lvl50Int": 138,
     "lvl50Spd": 128,
-    "support" : "Adroit Wisdom",
+    "skill" : "Adroit Wisdom",
     "degeneratesTo": ["DemiDevimon", "Biyomon", "Renamon"],
     "digivolvesTo": ["LadyDevimon", "Monzaemon", "Taomon"]
   },
@@ -1291,7 +1291,7 @@
     "lvl50Def": 113,
     "lvl50Int": 69,
     "lvl50Spd": 109,
-    "support" : "All-Rounder",
+    "skill" : "All-Rounder",
     "degeneratesTo": ["Agumon (Blk)", "Guilmon", "Goblimon"],
     "digivolvesTo": ["Gigadramon", "WarGrowlmon", "MetalGreymon", "MetalTyrannomon"]
   },
@@ -1309,7 +1309,7 @@
     "lvl50Def": 79,
     "lvl50Int": 64,
     "lvl50Spd": 113,
-    "support" : "Destroyer",
+    "skill" : "Destroyer",
     "degeneratesTo": ["Gazimon", "Keramon", "DemiDevimon"],
     "digivolvesTo": ["Cyberdramon", "Infermon", "Taomon"]
   },
@@ -1327,7 +1327,7 @@
     "lvl50Def": 118,
     "lvl50Int": 64,
     "lvl50Spd": 104,
-    "support" : "Dragon's Roar",
+    "skill" : "Dragon's Roar",
     "degeneratesTo": ["Agumon", "ToyAgumon", "Hackmon"],
     "digivolvesTo": ["MetalGreymon", "MetalGreymon (Blue)", "Megadramon", "SkullGreymon"]
   },
@@ -1345,7 +1345,7 @@
     "lvl50Def": 118,
     "lvl50Int": 59,
     "lvl50Spd": 99,
-    "support" : "Dragon's Wrath",
+    "skill" : "Dragon's Wrath",
     "degeneratesTo": ["Agumon (Blk)", "Guilmon", "Goblimon"],
     "digivolvesTo": ["MetalGreymon (Blue)", "Knightmon", "DoruGreymon"]
   },
@@ -1363,7 +1363,7 @@
     "lvl50Def": 101,
     "lvl50Int": 133,
     "lvl50Spd": 92,
-    "support" : "Metal Empire",
+    "skill" : "Metal Empire",
     "degeneratesTo": ["Gotsumon", "ToyAgumon", "Hagurumon", "Solarmon"],
     "digivolvesTo": ["Andromon", "Knightmon", "Datamon","Wisemon"]
   },
@@ -1381,7 +1381,7 @@
     "lvl50Def": 113,
     "lvl50Int": 59,
     "lvl50Spd": 99,
-    "support" : "Nature Spirits",
+    "skill" : "Nature Spirits",
     "degeneratesTo": ["Tentomon", "Palmon", "Wormmon"],
     "digivolvesTo": ["Cherrymon", "Okuwamon", "CannonBeemon"]
   },
@@ -1399,7 +1399,7 @@
     "lvl50Def": 89,
     "lvl50Int": 128,
     "lvl50Spd": 90,
-    "support" : "Deep Sea Slumber",
+    "skill" : "Deep Sea Slumber",
     "degeneratesTo": ["Otamamon", "Syakomon", "Betamon"],
     "digivolvesTo": ["MegaSeadramon", "ShogunGekomon", "Whamon"]
   },
@@ -1417,7 +1417,7 @@
     "lvl50Def": 128,
     "lvl50Int": 64,
     "lvl50Spd": 78,
-    "support" : "To Fight Another Day",
+    "skill" : "To Fight Another Day",
     "degeneratesTo": ["Armadillomon", "Elecmon", "Solarmon"],
     "digivolvesTo": ["Etemon", "SuperStarmon", "MetalMamemon"]
   },
@@ -1435,7 +1435,7 @@
     "lvl50Def": 84,
     "lvl50Int": 143,
     "lvl50Spd": 88,
-    "support" : "Millionaire",
+    "skill" : "Millionaire",
     "degeneratesTo": ["Armadillomon", "Kudamon", "Hagurumon"],
     "digivolvesTo": ["Vademon", "PlatinumNumemon", "BlackKingNumemon"]
   },
@@ -1453,7 +1453,7 @@
     "lvl50Def": 128,
     "lvl50Int": 93,
     "lvl50Spd": 81,
-    "support" : "Fight or Flight",
+    "skill" : "Fight or Flight",
     "degeneratesTo": ["Agumon (Blk)", "Armadillomon", "Dorumon"],
     "digivolvesTo": ["Megadramon", "DoruGreymon", "Datamon"]
   },
@@ -1471,7 +1471,7 @@
     "lvl50Def": 89,
     "lvl50Int": 141,
     "lvl50Spd": 86,
-    "support" : "Flower Guard",
+    "skill" : "Flower Guard",
     "degeneratesTo": ["Tentomon", "Palmon", "Lalamon"],
     "digivolvesTo": ["Angewomon", "Lilamon", "Lillymon"]
   },
@@ -1489,7 +1489,7 @@
     "lvl50Def": 99,
     "lvl50Int": 134,
     "lvl50Spd": 88,
-    "support" : "Mysterious Scale",
+    "skill" : "Mysterious Scale",
     "degeneratesTo": ["Otamamon", "Syakomon", "Betamon"],
     "digivolvesTo": ["ShogunGekomon", "MegaSeadramon", "Whamon"]
   },
@@ -1507,7 +1507,7 @@
     "lvl50Def": 84,
     "lvl50Int": 64,
     "lvl50Spd": 118,
-    "support" : "Fight or Flight",
+    "skill" : "Fight or Flight",
     "degeneratesTo": ["Agumon", "Guilmon", "Hackmon"],
     "digivolvesTo": ["Gigadramon", "RizeGreymon", "SkullGreymon"]
   },
@@ -1525,7 +1525,7 @@
     "lvl50Def": 133,
     "lvl50Int": 69,
     "lvl50Spd": 79,
-    "support" : "To Fight Another Day",
+    "skill" : "To Fight Another Day",
     "degeneratesTo": ["Agumon", "Elecmon", "ToyAgumon"],
     "digivolvesTo": ["SuperStarmon", "Etemon", "Vademon"]
   },
@@ -1543,7 +1543,7 @@
     "lvl50Def": 109,
     "lvl50Int": 91,
     "lvl50Spd": 101,
-    "support" : "Justice Union",
+    "skill" : "Justice Union",
     "degeneratesTo": ["Gotsumon", "ToyAgumon", "Hagurumon", "Solarmon"],
     "digivolvesTo": ["Mamemon", "MetalMamemon", "SuperStarmon"]
   },
@@ -1561,7 +1561,7 @@
     "lvl50Def": 74,
     "lvl50Int": 74,
     "lvl50Spd": 133,
-    "support" : "Nature Spirits",
+    "skill" : "Nature Spirits",
     "degeneratesTo": ["Tentomon", "Falcomon", "Wormmon"],
     "digivolvesTo": ["Infermon", "Paildramon", "Okuwamon"]
   },
@@ -1579,7 +1579,7 @@
     "lvl50Def": 93,
     "lvl50Int": 148,
     "lvl50Spd": 90,
-    "support" : "Supreme Focus",
+    "skill" : "Supreme Focus",
     "degeneratesTo": ["Impmon", "Gomamon", "Salamon"],
     "digivolvesTo": ["Antylamon", "Piximon", "Wisemon"]
   },
@@ -1597,7 +1597,7 @@
     "lvl50Def": 141,
     "lvl50Int": 98,
     "lvl50Spd": 81,
-    "support" : "Ironclad Defense",
+    "skill" : "Ironclad Defense",
     "degeneratesTo": ["Agumon (Blk)", "Armadillomon", "Gotsumon"],
     "digivolvesTo": ["Andromon","Gigadramon", "CannonBeemon", "Knightmon"]
   },
@@ -1615,7 +1615,7 @@
     "lvl50Def": 125,
     "lvl50Int": 59,
     "lvl50Spd": 97,
-    "support" : "Menace",
+    "skill" : "Menace",
     "degeneratesTo": ["Agumon", "Agumon (Blk)", "Guilmon"],
     "digivolvesTo": ["Mamemon", "Megadramon", "MetalGreymon (Blue)", "MetalTyrannomon"]
   },
@@ -1633,7 +1633,7 @@
     "lvl50Def": 79,
     "lvl50Int": 143,
     "lvl50Spd": 123,
-    "support" : "Holy Ring",
+    "skill" : "Holy Ring",
     "degeneratesTo": ["Terriermon", "Patamon", "Salamon"],
     "digivolvesTo": ["Angewomon", "Lillymon", "Silphymon"]
   },
@@ -1651,7 +1651,7 @@
     "lvl50Def": 84,
     "lvl50Int": 125,
     "lvl50Spd": 97,
-    "support" : "Nightmare Soldiers",
+    "skill" : "Nightmare Soldiers",
     "degeneratesTo": ["DemiDevimon", "Lucemon","Lopmon"],
     "digivolvesTo": ["BlueMeramon", "Infermon", "MetalGreymon (Blue)", "Myotismon"]
   },
@@ -1669,7 +1669,7 @@
     "lvl50Def": 113,
     "lvl50Int": 93,
     "lvl50Spd": 90,
-    "support" : "Poison Thorns",
+    "skill" : "Poison Thorns",
     "degeneratesTo": ["Gaomon", "Palmon", "Lalamon"],
     "digivolvesTo": ["MachGaogamon", "Lillymon", "Pumpkinmon"]
   },
@@ -1687,7 +1687,7 @@
     "lvl50Def": 89,
     "lvl50Int": 69,
     "lvl50Spd": 123,
-    "support" : "Haymaker",
+    "skill" : "Haymaker",
     "degeneratesTo": ["Gazimon", "Gabumon", "Dorumon"],
     "digivolvesTo": ["RizeGreymon", "DoruGreymon", "Chirinmon"]
   },
@@ -1705,7 +1705,7 @@
     "lvl50Def": 133,
     "lvl50Int": 98,
     "lvl50Spd": 81,
-    "support" : "Immobility",
+    "skill" : "Immobility",
     "degeneratesTo": ["Elecmon", "Gazimon", "Goblimon"],
     "digivolvesTo": ["Digitamamon", "SuperStarmon","Meteormon"]
   },
@@ -1723,7 +1723,7 @@
     "lvl50Def": 138,
     "lvl50Int": 69,
     "lvl50Spd": 83,
-    "support" : "Scavenge",
+    "skill" : "Scavenge",
     "degeneratesTo": ["Otamamon", "Gabumon", "Betamon"],
     "digivolvesTo": ["BlackKingNumemon", "Etemon", "Monzaemon"]
   },
@@ -1741,7 +1741,7 @@
     "lvl50Def": 84,
     "lvl50Int": 109,
     "lvl50Spd": 128,
-    "support" : "Phoenix Feathers",
+    "skill" : "Phoenix Feathers",
     "degeneratesTo": ["Patamon", "Biyomon", "Hawkmon"],
     "digivolvesTo": ["AeroVeedramon", "Garudamon", "Chirinmon", "Crowmon"]
   },
@@ -1759,7 +1759,7 @@
     "lvl50Def": 74,
     "lvl50Int": 138,
     "lvl50Spd": 128,
-    "support" : "Strange Dance",
+    "skill" : "Strange Dance",
     "degeneratesTo": ["Impmon", "Keramon", "DemiDevimon"],
     "digivolvesTo": ["BlueMeramon", "Pumpkinmon", "Myotismon", "LadyDevimon"]
   },
@@ -1777,7 +1777,7 @@
     "lvl50Def": 113,
     "lvl50Int": 64,
     "lvl50Spd": 114,
-    "support" : "Dragon's Wrath",
+    "skill" : "Dragon's Wrath",
     "degeneratesTo": ["Gabumon", "Veemon", "Salamon"],
     "digivolvesTo": ["AeroVeedramon", "Cyberdramon", "MetalTyrannomon", "WarGrowlmon"]
   },
@@ -1795,7 +1795,7 @@
     "lvl50Def": 138,
     "lvl50Int": 79,
     "lvl50Spd": 79,
-    "support" : "Platinum Bonus",
+    "skill" : "Platinum Bonus",
     "degeneratesTo": ["Keramon", "Hagurumon", "Hackmon"],
     "digivolvesTo": ["Etemon", "MetalMamemon", "Vademon"]
   },
@@ -1813,7 +1813,7 @@
     "lvl50Def": 84,
     "lvl50Int": 133,
     "lvl50Spd": 118,
-    "support" : "Nightmare Soldiers",
+    "skill" : "Nightmare Soldiers",
     "degeneratesTo": ["Impmon", "Renamon", "Lopmon"],
     "digivolvesTo": ["Cyberdramon", "Knightmon", "LadyDevimon", "WereGarurumon (Blk)"]
   },
@@ -1831,7 +1831,7 @@
     "lvl50Def": 106,
     "lvl50Int": 87,
     "lvl50Spd": 88,
-    "support" : "Nature Spirits",
+    "skill" : "Nature Spirits",
     "degeneratesTo": ["Palmon", "Betamon", "Lalamon", "Gabumon (Blk)"],
     "digivolvesTo": ["Digitamamon", "Lilamon", "MegaKabuterimon"]
   },
@@ -1849,7 +1849,7 @@
     "lvl50Def": 84,
     "lvl50Int": 94,
     "lvl50Spd": 148,
-    "support" : "Wind Guardians",
+    "skill" : "Wind Guardians",
     "degeneratesTo": ["Kudamon", "Falcomon", "Hawkmon"],
     "digivolvesTo": ["Antylamon", "Piximon", "Crowmon"]
   },
@@ -1867,7 +1867,7 @@
     "lvl50Def": 113,
     "lvl50Int": 79,
     "lvl50Spd": 99,
-    "support" : "Dragon's Roar",
+    "skill" : "Dragon's Roar",
     "degeneratesTo": ["Agumon", "Guilmon", "Hawkmon", "Solarmon"],
     "digivolvesTo": ["BlueMeramon", "SkullMeramon", "Mamemon", "Panjyamon"]
   },
@@ -1885,7 +1885,7 @@
     "lvl50Def": 98,
     "lvl50Int": 99,
     "lvl50Spd": 90,
-    "support" : "Deep Savers",
+    "skill" : "Deep Savers",
     "degeneratesTo": ["Gabumon", "Gomamon", "Salamon", "Gabumon (Blk)"],
     "digivolvesTo": ["Zudomon", "Angewomon", "Monzaemon"]
   },
@@ -1903,7 +1903,7 @@
     "lvl50Def": 123,
     "lvl50Int": 71,
     "lvl50Spd": 97,
-    "support" : "Animal Colosseum",
+    "skill" : "Animal Colosseum",
     "degeneratesTo": ["Elecmon", "Gaomon", "Gazimon"],
     "digivolvesTo": ["GrapLeomon", "MetalGreymon", "Meteormon", "Panjyamon"]
   },
@@ -1921,7 +1921,7 @@
     "lvl50Def": 99,
     "lvl50Int": 99,
     "lvl50Spd": 143,
-    "support" : "Mystic Protection",
+    "skill" : "Mystic Protection",
     "degeneratesTo": ["Kudamon", "Patamon", "Salamon", "Gabumon (Blk)"],
     "digivolvesTo": ["Rapidmon", "Piximon", "Chirinmon"]
   },
@@ -1939,7 +1939,7 @@
     "lvl50Def": 99,
     "lvl50Int": 74,
     "lvl50Spd": 113,
-    "support" : "Royal Commando",
+    "skill" : "Royal Commando",
     "degeneratesTo": ["Tentomon", "Dorumon", "Wormmon"],
     "digivolvesTo": ["CannonBeemon", "Rapidmon", "MegaKabuterimon", "Okuwamon"]
   },
@@ -1957,7 +1957,7 @@
     "lvl50Def": 163,
     "lvl50Int": 109,
     "lvl50Spd": 92,
-    "support" : "Numbing Waves",
+    "skill" : "Numbing Waves",
     "degeneratesTo": ["Kabuterimon", "Vegiemon", "Waspmon"],
     "digivolvesTo": ["GranKuwagamon", "Magnadramon", "HerculesKabuterimon"]
   },
@@ -1975,7 +1975,7 @@
     "lvl50Def": 109,
     "lvl50Int": 114,
     "lvl50Spd": 168,
-    "support" : "Meditation",
+    "skill" : "Meditation",
     "degeneratesTo": ["Gargomon", "Socerimon", "Peckmon"],
     "digivolvesTo": ["Kerpymon (Good)", "Diaboromon", "Dianamon", "Kerpymon (Blk)"]
   },
@@ -1993,7 +1993,7 @@
     "lvl50Def": 157,
     "lvl50Int": 133,
     "lvl50Spd": 95,
-    "support" : "Metal Empire",
+    "skill" : "Metal Empire",
     "degeneratesTo": ["Guardromon", "Clockmon", "Tankmon"],
     "digivolvesTo": ["Craniamon", "HiAndromon", "TigerVespamon"]
   },
@@ -2011,7 +2011,7 @@
     "lvl50Def": 163,
     "lvl50Int": 128,
     "lvl50Spd": 89,
-    "support" : "Animal Colosseum",
+    "skill" : "Animal Colosseum",
     "degeneratesTo": ["Ankylomon", "Nanimon", "Leomon"],
     "digivolvesTo": ["Ebemon", "MetalEtemon", "Dianamon"]
   },
@@ -2029,7 +2029,7 @@
     "lvl50Def": 89,
     "lvl50Int": 74,
     "lvl50Spd": 153,
-    "support" : "Destroyer",
+    "skill" : "Destroyer",
     "degeneratesTo": ["Kurisarimon", "Stingmon", "Devimon"],
     "digivolvesTo": ["Beelzemon", "Diaboromon", "VenomMyotismon"]
   },
@@ -2047,7 +2047,7 @@
     "lvl50Def": 99,
     "lvl50Int": 148,
     "lvl50Spd": 110,
-    "support" : "Nightmare Soldiers",
+    "skill" : "Nightmare Soldiers",
     "degeneratesTo": ["Wizardmon", "Devimon", "Bakemon", "IceDevimon"],
     "digivolvesTo": ["Barbamon", "Piedmon", "VenomMyotismon"]
   },
@@ -2065,7 +2065,7 @@
     "lvl50Def": 99,
     "lvl50Int": 94,
     "lvl50Spd": 153,
-    "support" : "Swiftness",
+    "skill" : "Swiftness",
     "degeneratesTo": ["Aquilamon", "Birdramon", "Veedramon"],
     "digivolvesTo": ["Ravemon", "Dynasmon", "UlforceVeedramon"]
   },
@@ -2083,7 +2083,7 @@
     "lvl50Def": 119,
     "lvl50Int": 129,
     "lvl50Spd": 133,
-    "support" : "Muscle Monkey Suit",
+    "skill" : "Muscle Monkey Suit",
     "degeneratesTo": ["Sukamon", "Numemon", "PlatinumSukamon", "Geremon"],
     "digivolvesTo": ["MetalEtemon", "Piedmon", "PlatinumNumemon"]
   },
@@ -2101,7 +2101,7 @@
     "lvl50Def": 94,
     "lvl50Int": 188,
     "lvl50Spd": 143,
-    "support" : "Holy Ring",
+    "skill" : "Holy Ring",
     "degeneratesTo": ["Sunflowmon", "Gatomon", "Frigimon"],
     "digivolvesTo": ["Magnadramon", "Ophanimon", "Mastemon", "Valkyrimon"]
   },
@@ -2119,7 +2119,7 @@
     "lvl50Def": 158,
     "lvl50Int": 74,
     "lvl50Spd": 119,
-    "support" : "Nature Spirits",
+    "skill" : "Nature Spirits",
     "degeneratesTo": ["Kuwagamon", "Stingmon", "Waspmon"],
     "digivolvesTo": ["Diaboromon", "GranKuwagamon", "HerculesKabuterimon"]
   },
@@ -2137,7 +2137,7 @@
     "lvl50Def": 109,
     "lvl50Int": 129,
     "lvl50Spd": 143,
-    "support" : "Phoenix Feathers",
+    "skill" : "Phoenix Feathers",
     "degeneratesTo": ["Aquilamon", "Angemon", "Birdramon"],
     "digivolvesTo": ["Hououmon", "Justimon", "Ravemon"]
   },
@@ -2155,7 +2155,7 @@
     "lvl50Def": 148,
     "lvl50Int": 113,
     "lvl50Spd": 100,
-    "support" : "Ironclad Defense",
+    "skill" : "Ironclad Defense",
     "degeneratesTo": ["Growlmon", "GeoGreymon", "Tankmon"],
     "digivolvesTo": ["MetalSeadramon", "Machinedramon", "GroundLocomon", "Darkdramon"]
   },
@@ -2173,7 +2173,7 @@
     "lvl50Def": 139,
     "lvl50Int": 99,
     "lvl50Spd": 143,
-    "support" : "Royal Commando",
+    "skill" : "Royal Commando",
     "degeneratesTo": ["Kuwagamon", "Tankmon", "Waspmon"],
     "digivolvesTo": ["MegaGargomon", "GroundLocomon", "TigerVespamon"]
   },
@@ -2191,7 +2191,7 @@
     "lvl50Def": 99,
     "lvl50Int": 79,
     "lvl50Spd": 143,
-    "support" : "Feral Pulse",
+    "skill" : "Feral Pulse",
     "degeneratesTo": ["Guardromon", "GaoGamon", "Leomon"],
     "digivolvesTo": ["BanchoLeomon", "Leopardmon", "SaberLeomon"]
   },
@@ -2209,7 +2209,7 @@
     "lvl50Def": 143,
     "lvl50Int": 79,
     "lvl50Spd": 122,
-    "support" : "Justice Union",
+    "skill" : "Justice Union",
     "degeneratesTo": ["Kurisarimon", "Veedramon", "BlackGatomon"],
     "digivolvesTo": ["Justimon", "Titamon", "Alphamon"]
   },
@@ -2227,7 +2227,7 @@
     "lvl50Def": 158,
     "lvl50Int": 139,
     "lvl50Spd": 92,
-    "support" : "Justice Genome",
+    "skill" : "Justice Genome",
     "degeneratesTo": ["Ankylomon", "Angemon"],
     "digivolvesTo": ["Kerpymon (Good)", "Vikemon", "ChaosGallantmon"]
   },
@@ -2245,7 +2245,7 @@
     "lvl50Def": 133,
     "lvl50Int": 114,
     "lvl50Spd": 100,
-    "support" : "Strange Dance",
+    "skill" : "Strange Dance",
     "degeneratesTo": ["Woodmon", "Kabuterimon", "Kuwagamon", "IceDevimon"],
     "digivolvesTo": ["GranKuwagamon", "Kuzuhamon", "Puppetmon"]
   },
@@ -2263,7 +2263,7 @@
     "lvl50Def": 119,
     "lvl50Int": 124,
     "lvl50Spd": 158,
-    "support" : "Wind Guardians",
+    "skill" : "Wind Guardians",
     "degeneratesTo": ["Aquilamon", "Gatomon"],
     "digivolvesTo": ["Dynasmon", "Hououmon", "Sakuyamon", "Valkyrimon"]
   },
@@ -2281,7 +2281,7 @@
     "lvl50Def": 134,
     "lvl50Int": 109,
     "lvl50Spd": 120,
-    "support" : "Justice Union",
+    "skill" : "Justice Union",
     "degeneratesTo": ["Sukamon", "Starmon", "Nanimon", "Geremon"],
     "digivolvesTo": ["Justimon", "Gankoomon", "PlatinumNumemon"]
   },
@@ -2299,7 +2299,7 @@
     "lvl50Def": 153,
     "lvl50Int": 69,
     "lvl50Spd": 119,
-    "support" : "Dragon's Wrath",
+    "skill" : "Dragon's Wrath",
     "degeneratesTo": ["Ankylomon", "Greymon"],
     "digivolvesTo": ["Creepymon", "ShineGreymon", "Titamon"]
   },
@@ -2317,7 +2317,7 @@
     "lvl50Def": 128,
     "lvl50Int": 104,
     "lvl50Spd": 102,
-    "support" : "Deep Savers",
+    "skill" : "Deep Savers",
     "degeneratesTo": ["Ikkakumon", "Garurumon", "Frigimon"],
     "digivolvesTo": ["MetalGarurumon", "MarineAngemon", "Vikemon"]
   },
@@ -2335,7 +2335,7 @@
     "lvl50Def": 104,
     "lvl50Int": 173,
     "lvl50Spd": 138,
-    "support" : "Adroit Wisdom",
+    "skill" : "Adroit Wisdom",
     "degeneratesTo": ["Woodmon", "Kyubimon", "Kurisarimon"],
     "digivolvesTo": ["Dianamon", "Kuzuhamon", "Sakuyamon"]
   },
@@ -2353,7 +2353,7 @@
     "lvl50Def": 119,
     "lvl50Int": 124,
     "lvl50Spd": 168,
-    "support" : "Mystic Protection",
+    "skill" : "Mystic Protection",
     "degeneratesTo": ["Dorugamon", "Birdramon", "Reppamon"],
     "digivolvesTo": ["MetalGarurumon", "Seraphimon", "Kentaurosmon"]
   },
@@ -2371,7 +2371,7 @@
     "lvl50Def": 148,
     "lvl50Int": 111,
     "lvl50Spd": 102,
-    "support" : "Haymaker",
+    "skill" : "Haymaker",
     "degeneratesTo": ["Ogremon", "Nanimon", "Vegiemon"],
     "digivolvesTo": ["Minervamon", "Titamon","Belphemon SM"]
   },
@@ -2389,7 +2389,7 @@
     "lvl50Def": 133,
     "lvl50Int": 70,
     "lvl50Spd": 113,
-    "support" : "Immobility",
+    "skill" : "Immobility",
     "degeneratesTo": ["Wizardmon", "Ogremon", "Meramon"],
     "digivolvesTo": ["Gankoomon", "Beelzemon", "Boltmon"]
   },
@@ -2407,7 +2407,7 @@
     "lvl50Def": 113,
     "lvl50Int": 99,
     "lvl50Spd": 97,
-    "support" : "Deep Sea Slumber",
+    "skill" : "Deep Sea Slumber",
     "degeneratesTo": ["ShellNumemon", "Gekomon", "Seadramon"],
     "digivolvesTo": ["Plesiomon", "Leviamon", "Vikemon"]
   },
@@ -2425,7 +2425,7 @@
     "lvl50Def": 153,
     "lvl50Int": 84,
     "lvl50Spd": 116,
-    "support" : "Haymaker",
+    "skill" : "Haymaker",
     "degeneratesTo": ["Garurumon", "Cyclonemon", "Dorugamon", "Greymon (Blue)"],
     "digivolvesTo": ["Alphamon", "Examon", "Kentaurosmon"]
   },
@@ -2443,7 +2443,7 @@
     "lvl50Def": 158,
     "lvl50Int": 123,
     "lvl50Spd": 92,
-    "support" : "Ironclad Defense",
+    "skill" : "Ironclad Defense",
     "degeneratesTo": ["Clockmon", "Tankmon", "BlackGatomon", "Greymon (Blue)"],
     "digivolvesTo": ["Craniamon", "Leopardmon", "Crusadermon"]
   },
@@ -2461,7 +2461,7 @@
     "lvl50Def": 114,
     "lvl50Int": 175,
     "lvl50Spd": 102,
-    "support" : "Analyze",
+    "skill" : "Analyze",
     "degeneratesTo": ["Guardromon", "Clockmon", "Cyclonemon"],
     "digivolvesTo": ["Machinedramon", "MetalGarurumon (Blk)", "GroundLocomon"]
   },
@@ -2479,7 +2479,7 @@
     "lvl50Def": 124,
     "lvl50Int": 109,
     "lvl50Spd": 128,
-    "support" : "Backwater Camp",
+    "skill" : "Backwater Camp",
     "degeneratesTo": ["ExVeemon", "Stingmon"],
     "digivolvesTo": ["Imperialdramon DM"]
   },
@@ -2497,7 +2497,7 @@
     "lvl50Def": 114,
     "lvl50Int": 111,
     "lvl50Spd": 126,
-    "support" : "Animal Colosseum",
+    "skill" : "Animal Colosseum",
     "degeneratesTo": ["Garurumon", "Meramon", "Leomon"],
     "digivolvesTo": ["BanchoLeomon", "SaberLeomon", "MirageGaogamon"]
   },
@@ -2515,7 +2515,7 @@
     "lvl50Def": 108,
     "lvl50Int": 119,
     "lvl50Spd": 111,
-    "support" : "Strange Dance",
+    "skill" : "Strange Dance",
     "degeneratesTo": ["Woodmon", "Togemon", "Bakemon"],
     "digivolvesTo": ["Boltmon", "Puppetmon", "Rosemon"]
   },
@@ -2533,7 +2533,7 @@
     "lvl50Def": 104,
     "lvl50Int": 134,
     "lvl50Spd": 153,
-    "support" : "Fairy Protection",
+    "skill" : "Fairy Protection",
     "degeneratesTo": ["Socerimon", "Peckmon", "Reppamon"],
     "digivolvesTo": ["Hououmon", "MarineAngemon", "Ophanimon"]
   },
@@ -2551,7 +2551,7 @@
     "lvl50Def": 168,
     "lvl50Int": 89,
     "lvl50Spd": 89,
-    "support" : "Scavenge",
+    "skill" : "Scavenge",
     "degeneratesTo": ["ShellNumemon", "GoldNumemon", "Numemon"],
     "digivolvesTo": ["PlatinumNumemon", "MetalEtemon", "PrinceMamemon"]
   },
@@ -2569,7 +2569,7 @@
     "lvl50Def": 94,
     "lvl50Int": 133,
     "lvl50Spd": 119,
-    "support" : "Dragon's Roar",
+    "skill" : "Dragon's Roar",
     "degeneratesTo": ["Devimon", "Bakemon", "Meramon", "Garurumon (Blk)"],
     "digivolvesTo": ["Barbamon", "Boltmon", "Creepymon", "Darkdramon"]
   },
@@ -2587,7 +2587,7 @@
     "lvl50Def": 94,
     "lvl50Int": 173,
     "lvl50Spd": 97,
-    "support" : "High Resolution",
+    "skill" : "High Resolution",
     "degeneratesTo": ["GoldNumemon", "Sukamon", "PlatinumSukamon"],
     "digivolvesTo": ["Ebemon", "HerculesKabuterimon", "HiAndromon"]
   },
@@ -2605,7 +2605,7 @@
     "lvl50Def": 123,
     "lvl50Int": 124,
     "lvl50Spd": 100,
-    "support" : "Ocean Love",
+    "skill" : "Ocean Love",
     "degeneratesTo": ["Ikkakumon", "Gekomon", "Seadramon"],
     "digivolvesTo": ["Plesiomon", "MarineAngemon", "MetalSeadramon"]
   },
@@ -2623,7 +2623,7 @@
     "lvl50Def": 119,
     "lvl50Int": 163,
     "lvl50Spd": 105,
-    "support" : "Justice Genome",
+    "skill" : "Justice Genome",
     "degeneratesTo": ["Ankylomon", "ExVeemon", "Angemon"],
     "digivolvesTo": ["ShineGreymon", "Crusadermon", "Seraphimon", "Valkyrimon"]
   },
@@ -2641,7 +2641,7 @@
     "lvl50Def": 89,
     "lvl50Int": 89,
     "lvl50Spd": 158,
-    "support" : "Feint",
+    "skill" : "Feint",
     "degeneratesTo": ["Ikkakumon", "GaoGamon", "Togemon", "Garurumon (Blk)"],
     "digivolvesTo": ["BanchoLeomon", "MirageGaogamon", "MegaGargomon"]
   },
@@ -2659,7 +2659,7 @@
     "lvl50Def": 153,
     "lvl50Int": 84,
     "lvl50Spd": 97,
-    "support" : "Immobility",
+    "skill" : "Immobility",
     "degeneratesTo": ["Starmon", "Tyrannomon", "Meramon"],
     "digivolvesTo": ["Puppetmon", "PrinceMamemon", "WarGreymon"]
   },
@@ -2677,7 +2677,7 @@
     "lvl50Def": 114,
     "lvl50Int": 158,
     "lvl50Spd": 102,
-    "support" : "Mysterious Scale",
+    "skill" : "Mysterious Scale",
     "degeneratesTo": ["ShellNumemon", "Gekomon", "Seadramon"],
     "digivolvesTo": ["Leviamon", "MetalSeadramon", "Plesiomon"]
   },
@@ -2695,7 +2695,7 @@
     "lvl50Def": 148,
     "lvl50Int": 69,
     "lvl50Spd": 119,
-    "support" : "Bull's-Eye",
+    "skill" : "Bull's-Eye",
     "degeneratesTo": ["Greymon", "Cyclonemon", "Tyrannomon"],
     "digivolvesTo": ["BlackWarGreymon", "Machinedramon", "UlforceVeedramon"]
   },
@@ -2713,7 +2713,7 @@
     "lvl50Def": 138,
     "lvl50Int": 87,
     "lvl50Spd": 116,
-    "support" : "All-Rounder",
+    "skill" : "All-Rounder",
     "degeneratesTo": ["Gargomon", "Growlmon", "Veedramon"],
     "digivolvesTo": ["Gallantmon", "ChaosGallantmon", "RustTyranomon", "Darkdramon"]
   },
@@ -2731,7 +2731,7 @@
     "lvl50Def": 148,
     "lvl50Int": 80,
     "lvl50Spd": 113,
-    "support" : "Dragon's Roar",
+    "skill" : "Dragon's Roar",
     "degeneratesTo": ["Growlmon", "Greymon", "Leomon"],
     "digivolvesTo": ["RustTyranomon", "Gaiomon", "WarGreymon"]
   },
@@ -2749,7 +2749,7 @@
     "lvl50Def": 143,
     "lvl50Int": 69,
     "lvl50Spd": 110,
-    "support" : "Dragon's Wrath",
+    "skill" : "Dragon's Wrath",
     "degeneratesTo": ["Greymon", "Tyrannomon", "Devimon", "Greymon (Blue)"],
     "digivolvesTo": ["BlackWarGreymon", "Gaiomon", "WarGreymon", "Kerpymon (Blk)"]
   },
@@ -2767,7 +2767,7 @@
     "lvl50Def": 178,
     "lvl50Int": 118,
     "lvl50Spd": 92,
-    "support" : "Menace",
+    "skill" : "Menace",
     "degeneratesTo": ["Growlmon", "Tyrannomon", "Veedramon"],
     "digivolvesTo": ["BlackWarGreymon", "Gallantmon", "RustTyranomon"]
   },
@@ -2785,7 +2785,7 @@
     "lvl50Def": 153,
     "lvl50Int": 128,
     "lvl50Spd": 103,
-    "support" : "Full Functionality",
+    "skill" : "Full Functionality",
     "degeneratesTo": ["Guardromon", "Starmon", "PlatinumSukamon", "Geremon"],
     "digivolvesTo": ["Ebemon", "HiAndromon", "PrinceMamemon"]
   },
@@ -2803,7 +2803,7 @@
     "lvl50Def": 118,
     "lvl50Int": 119,
     "lvl50Spd": 100,
-    "support" : "Primal Trooper",
+    "skill" : "Primal Trooper",
     "degeneratesTo": ["Kyubimon", "Numemon", "Frigimon"],
     "digivolvesTo": ["Minervamon", "Sakuyamon", "SaberLeomon"]
   },
@@ -2821,7 +2821,7 @@
     "lvl50Def": 104,
     "lvl50Int": 119,
     "lvl50Spd": 173,
-    "support" : "Wind Guardians",
+    "skill" : "Wind Guardians",
     "degeneratesTo": ["Aquilamon", "Birdramon", "Peckmon"],
     "digivolvesTo": ["Minervamon", "Ravemon", "Kuzuhamon"]
   },
@@ -2839,7 +2839,7 @@
     "lvl50Def": 109,
     "lvl50Int": 69,
     "lvl50Spd": 143,
-    "support" : "Fight or Flight",
+    "skill" : "Fight or Flight",
     "degeneratesTo": ["ExVeemon", "GeoGreymon", "Dorugamon"],
     "digivolvesTo": ["Examon", "Gaiomon", "ShineGreymon"]
   },
@@ -2857,7 +2857,7 @@
     "lvl50Def": 104,
     "lvl50Int": 168,
     "lvl50Spd": 114,
-    "support" : "Flower Guard",
+    "skill" : "Flower Guard",
     "degeneratesTo": ["Kabuterimon", "Sunflowmon", "Vegiemon"],
     "digivolvesTo": ["Lillithmon", "Lotosmon", "Rosemon"]
   },
@@ -2875,7 +2875,7 @@
     "lvl50Def": 109,
     "lvl50Int": 119,
     "lvl50Spd": 143,
-    "support" : "Bull's-Eye",
+    "skill" : "Bull's-Eye",
     "degeneratesTo": ["Gargomon", "Reppamon", "Waspmon"],
     "digivolvesTo": ["MegaGargomon", "TigerVespamon", "MetalGarurumon (Blk)"]
   },
@@ -2893,7 +2893,7 @@
     "lvl50Def": 94,
     "lvl50Int": 163,
     "lvl50Spd": 158,
-    "support" : "Poison Thorns",
+    "skill" : "Poison Thorns",
     "degeneratesTo": ["Sunflowmon", "Gatomon", "Togemon"],
     "digivolvesTo": ["Magnadramon", "Lotosmon", "Rosemon"]
   },
@@ -2911,7 +2911,7 @@
     "lvl50Def": 114,
     "lvl50Int": 203,
     "lvl50Spd": 139,
-    "support" : "Pride",
+    "skill" : "Pride",
     "degeneratesTo": ["Lucemon"],
     "digivolvesTo": ["Lucemon SM"]
   },
@@ -2929,7 +2929,7 @@
     "lvl50Def": 94,
     "lvl50Int": 158,
     "lvl50Spd": 143,
-    "support" : "Nightmare Soldiers",
+    "skill" : "Nightmare Soldiers",
     "degeneratesTo": ["Kyubimon", "Bakemon", "BlackGatomon", "IceDevimon"],
     "digivolvesTo": ["Lillithmon", "Lotosmon", "Mastemon"]
   },
@@ -2947,7 +2947,7 @@
     "lvl50Def": 89,
     "lvl50Int": 79,
     "lvl50Spd": 153,
-    "support" : "Feral Pulse",
+    "skill" : "Feral Pulse",
     "degeneratesTo": ["Ogremon", "GaoGamon", "Garurumon"],
     "digivolvesTo": ["MetalGarurumon", "MetalGarurumon (Blk)", "MirageGaogamon"]
 
@@ -2966,7 +2966,7 @@
     "lvl50Def": 104,
     "lvl50Int": 69,
     "lvl50Spd": 148,
-    "support" : "Menace",
+    "skill" : "Menace",
     "degeneratesTo": ["Garurumon (Blk)", "BlackGatomon"],
     "digivolvesTo": ["MetalGarurumon (Blk)", "Minervamon", "BanchoLeomon"]
   },
@@ -2984,7 +2984,7 @@
     "lvl50Def": 84,
     "lvl50Int": 198,
     "lvl50Spd": 133,
-    "support" : "Trickster",
+    "skill" : "Trickster",
     "degeneratesTo": ["Wizardmon", "Clockmon", "Socerimon"],
     "digivolvesTo": ["VenomMyotismon", "Belphemon SM", "Piedmon"]
   },
@@ -3002,7 +3002,7 @@
     "lvl50Def": 183,
     "lvl50Int": 158,
     "lvl50Spd": 130,
-    "support" : "Hermitic Loner",
+    "skill" : "Hermitic Loner",
     "degeneratesTo": ["Cyberdramon", "DoruGreymon"],
     "digivolvesTo": null
   },
@@ -3020,7 +3020,7 @@
     "lvl50Def": 109,
     "lvl50Int": 104,
     "lvl50Spd": 198,
-    "support" : "Swiftness",
+    "skill" : "Swiftness",
     "degeneratesTo": ["AeroVeedramon", "Megadramon"],
     "digivolvesTo": null
   },
@@ -3038,7 +3038,7 @@
     "lvl50Def": 114,
     "lvl50Int": 198,
     "lvl50Spd": 129,
-    "support" : "High Resolution",
+    "skill" : "High Resolution",
     "degeneratesTo": ["Meteormon", "Vademon", "MetalMamemon"],
     "digivolvesTo": null
   },
@@ -3056,7 +3056,7 @@
     "lvl50Def": 139,
     "lvl50Int": 139,
     "lvl50Spd": 148,
-    "support" : "Dragon Mode",
+    "skill" : "Dragon Mode",
     "degeneratesTo": ["Paildramon"],
     "digivolvesTo": ["Imperialdramon PM", "Imperialdramon FM"]
   },
@@ -3074,7 +3074,7 @@
     "lvl50Def": 124,
     "lvl50Int": 114,
     "lvl50Spd": 153,
-    "support" : "Fighter Mode",
+    "skill" : "Fighter Mode",
     "degeneratesTo": ["Imperialdramon DM"],
     "digivolvesTo": null
   },
@@ -3092,7 +3092,7 @@
     "lvl50Def": 143,
     "lvl50Int": 129,
     "lvl50Spd": 133,
-    "support" : "Deep Savers",
+    "skill" : "Deep Savers",
     "degeneratesTo": ["Shakkoumon", "Zudomon", "ShogunGekomon"],
     "digivolvesTo": null
   },
@@ -3110,7 +3110,7 @@
     "lvl50Def": 104,
     "lvl50Int": 148,
     "lvl50Spd": 138,
-    "support" : "Nightmare Soldiers",
+    "skill" : "Nightmare Soldiers",
     "degeneratesTo": ["Infermon", "Myotismon", "Wisemon"],
     "digivolvesTo": null
   },
@@ -3128,7 +3128,7 @@
     "lvl50Def": 163,
     "lvl50Int": 99,
     "lvl50Spd": 140,
-    "support" : "Dragon's Roar",
+    "skill" : "Dragon's Roar",
     "degeneratesTo": ["Mamemon", "MetalGreymon", "MetalGreymon (Blue)"],
     "digivolvesTo": ["Omnimon"]
   },
@@ -3146,7 +3146,7 @@
     "lvl50Def": 129,
     "lvl50Int": 129,
     "lvl50Spd": 153,
-    "support" : "Caledfwlch Dive",
+    "skill" : "Caledfwlch Dive",
     "degeneratesTo": ["DoruGreymon", "RizeGreymon"],
     "digivolvesTo": null
   },
@@ -3164,7 +3164,7 @@
     "lvl50Def": 164,
     "lvl50Int": 193,
     "lvl50Spd": 153,
-    "support" : "Holy Ring",
+    "skill" : "Holy Ring",
     "degeneratesTo": ["Angewomon", "Piximon"],
     "digivolvesTo": null
   },
@@ -3182,7 +3182,7 @@
     "lvl50Def": 129,
     "lvl50Int": 94,
     "lvl50Spd": 158,
-    "support" : "Backwater Camp",
+    "skill" : "Backwater Camp",
     "degeneratesTo": ["MetalGreymon", "MetalGreymon (Blue)", "RizeGreymon"],
     "digivolvesTo": null
   },
@@ -3200,7 +3200,7 @@
     "lvl50Def": 139,
     "lvl50Int": 163,
     "lvl50Spd": 144,
-    "support" : "Chaos Expert",
+    "skill" : "Chaos Expert",
     "degeneratesTo": ["Shakkoumon", "WarGrowlmon"],
     "digivolvesTo": null
   },
@@ -3218,7 +3218,7 @@
     "lvl50Def": 163,
     "lvl50Int": 109,
     "lvl50Spd": 138,
-    "support" : "Master's Disposition",
+    "skill" : "Master's Disposition",
     "degeneratesTo": ["SuperStarmon", "SkullMeramon"],
     "digivolvesTo": null
   },
@@ -3236,7 +3236,7 @@
     "lvl50Def": 129,
     "lvl50Int": 193,
     "lvl50Spd": 139,
-    "support" : "Supreme Focus",
+    "skill" : "Supreme Focus",
     "degeneratesTo": ["Cherrymon", "Taomon", "Crowmon"],
     "digivolvesTo": null
   },
@@ -3254,7 +3254,7 @@
     "lvl50Def": 178,
     "lvl50Int": 89,
     "lvl50Spd": 140,
-    "support" : "Nature Spirits",
+    "skill" : "Nature Spirits",
     "degeneratesTo": ["MegaKabuterimon", "Okuwamon", "Cherrymon"],
     "digivolvesTo": null
   },
@@ -3272,7 +3272,7 @@
     "lvl50Def": 213,
     "lvl50Int": 133,
     "lvl50Spd": 128,
-    "support" : "Ironclad Defense",
+    "skill" : "Ironclad Defense",
     "degeneratesTo": ["Gigadramon", "CannonBeemon", "Datamon"],
     "digivolvesTo": null
   },
@@ -3290,7 +3290,7 @@
     "lvl50Def": 208,
     "lvl50Int": 134,
     "lvl50Spd": 124,
-    "support" : "Ironclad Fortification",
+    "skill" : "Ironclad Fortification",
     "degeneratesTo": ["Andromon", "Knightmon"],
     "digivolvesTo": null
   },
@@ -3308,7 +3308,7 @@
     "lvl50Def": 104,
     "lvl50Int": 208,
     "lvl50Spd": 158,
-    "support" : "Meditation",
+    "skill" : "Meditation",
     "degeneratesTo": ["Antylamon", "Shakkoumon"],
     "digivolvesTo": null
   },
@@ -3326,7 +3326,7 @@
     "lvl50Def": 104,
     "lvl50Int": 84,
     "lvl50Spd": 163,
-    "support" : "Animal Colosseum",
+    "skill" : "Animal Colosseum",
     "degeneratesTo": ["GrapLeomon", "Panjyamon", "Monzaemon"],
     "digivolvesTo": null
   },
@@ -3344,7 +3344,7 @@
     "lvl50Def": 114,
     "lvl50Int": 188,
     "lvl50Spd": 173,
-    "support" : "Adroit Wisdom",
+    "skill" : "Adroit Wisdom",
     "degeneratesTo": ["Silphymon", "Taomon", "Monzaemon"],
     "digivolvesTo": null
   },
@@ -3362,7 +3362,7 @@
     "lvl50Def": 149,
     "lvl50Int": 114,
     "lvl50Spd": 168,
-    "support" : "Aus Generics",
+    "skill" : "Aus Generics",
     "degeneratesTo": ["Hackmon"],
     "digivolvesTo": null
   },
@@ -3380,7 +3380,7 @@
     "lvl50Def": 109,
     "lvl50Int": 84,
     "lvl50Spd": 158,
-    "support" : "Fight or Flight",
+    "skill" : "Fight or Flight",
     "degeneratesTo": ["SkullGreymon", "MagnaAngemon", "RizeGreymon"],
     "digivolvesTo": ["ShineGreymon BM"]
   },
@@ -3398,7 +3398,7 @@
     "lvl50Def": 158,
     "lvl50Int": 99,
     "lvl50Spd": 144,
-    "support" : "Justice Union",
+    "skill" : "Justice Union",
     "degeneratesTo": ["Garudamon", "Cyberdramon", "SuperStarmon"],
     "digivolvesTo": null
   },
@@ -3416,7 +3416,7 @@
     "lvl50Def": 154,
     "lvl50Int": 154,
     "lvl50Spd": 183,
-    "support" : "Mystic Protection",
+    "skill" : "Mystic Protection",
     "degeneratesTo": ["Chirinmon", "DoruGreymon"],
     "digivolvesTo": null
   },
@@ -3434,7 +3434,7 @@
     "lvl50Def": 144,
     "lvl50Int": 198,
     "lvl50Spd": 135,
-    "support" : "Justice Genome",
+    "skill" : "Justice Genome",
     "degeneratesTo": ["Chirinmon", "MagnaAngemon"],
     "digivolvesTo": null
   },
@@ -3452,7 +3452,7 @@
     "lvl50Def": 139,
     "lvl50Int": 119,
     "lvl50Spd": 144,
-    "support" : "Bull's-Eye",
+    "skill" : "Bull's-Eye",
     "degeneratesTo": ["CannonBeemon", "MachGaogamon", "Rapidmon"],
     "digivolvesTo": null
   },
@@ -3470,7 +3470,7 @@
     "lvl50Def": 114,
     "lvl50Int": 99,
     "lvl50Spd": 173,
-    "support" : "Royal Commando",
+    "skill" : "Royal Commando",
     "degeneratesTo": ["Andromon", "CannonBeemon", "Rapidmon"],
     "digivolvesTo": null
   },
@@ -3488,7 +3488,7 @@
     "lvl50Def": 128,
     "lvl50Int": 114,
     "lvl50Spd": 129,
-    "support" : "Haymaker",
+    "skill" : "Haymaker",
     "degeneratesTo": ["Cyberdramon", "SkullGreymon", "Digitamamon"],
     "digivolvesTo": null
   },
@@ -3506,7 +3506,7 @@
     "lvl50Def": 154,
     "lvl50Int": 198,
     "lvl50Spd": 183,
-    "support" : "Moon-Kissed Blade",
+    "skill" : "Moon-Kissed Blade",
     "degeneratesTo": ["Antylamon", "Meteormon", "Taomon"],
     "digivolvesTo": null
   },
@@ -3524,7 +3524,7 @@
     "lvl50Def": 104,
     "lvl50Int": 79,
     "lvl50Spd": 173,
-    "support" : "Destroyer",
+    "skill" : "Destroyer",
     "degeneratesTo": ["Antylamon", "Infermon", "Okuwamon"],
     "digivolvesTo": null
   },
@@ -3542,7 +3542,7 @@
     "lvl50Def": 114,
     "lvl50Int": 183,
     "lvl50Spd": 140,
-    "support" : "Wrath",
+    "skill" : "Wrath",
     "degeneratesTo": ["SkullGreymon", "BlueMeramon"],
     "digivolvesTo": null
   },
@@ -3560,7 +3560,7 @@
     "lvl50Def": 154,
     "lvl50Int": 149,
     "lvl50Spd": 148,
-    "support" : "All-Rounder",
+    "skill" : "All-Rounder",
     "degeneratesTo": ["WarGrowlmon", "MetalTyrannomon"],
     "digivolvesTo": null
   },
@@ -3578,7 +3578,7 @@
     "lvl50Def": 129,
     "lvl50Int": 94,
     "lvl50Spd": 178,
-    "support" : "Wyvern",
+    "skill" : "Wyvern",
     "degeneratesTo": ["AeroVeedramon", "Silphymon"],
     "digivolvesTo": null
   },
@@ -3596,7 +3596,7 @@
     "lvl50Def": 114,
     "lvl50Int": 183,
     "lvl50Spd": 188,
-    "support" : "Strategist",
+    "skill" : "Strategist",
     "degeneratesTo": ["GrapLeomon", "Knightmon"],
     "digivolvesTo": ["Leopardmon LM"]
   },
@@ -3614,7 +3614,7 @@
     "lvl50Def": 129,
     "lvl50Int": 139,
     "lvl50Spd": 218,
-    "support" : "Leopard Mode",
+    "skill" : "Leopard Mode",
     "degeneratesTo": ["Leopardmon"],
     "digivolvesTo": null
   },
@@ -3632,7 +3632,7 @@
     "lvl50Def": 178,
     "lvl50Int": 138,
     "lvl50Spd": 124,
-    "support" : "Metal Empire",
+    "skill" : "Metal Empire",
     "degeneratesTo": ["Andromon", "Vademon", "MetalMamemon"],
     "digivolvesTo": null
   },
@@ -3650,7 +3650,7 @@
     "lvl50Def": 129,
     "lvl50Int": 233,
     "lvl50Spd": 133,
-    "support" : "Greed",
+    "skill" : "Greed",
     "degeneratesTo": ["Myotismon", "BlueMeramon"],
     "digivolvesTo": null
   },
@@ -3668,7 +3668,7 @@
     "lvl50Def": 188,
     "lvl50Int": 80,
     "lvl50Spd": 138,
-    "support" : "Backwater Camp",
+    "skill" : "Backwater Camp",
     "degeneratesTo": ["GrapLeomon", "Panjyamon", "MachGaogamon", "WereGarurumon (Blk)"],
     "digivolvesTo": ["Chaosmon"]
   },
@@ -3686,7 +3686,7 @@
     "lvl50Def": 104,
     "lvl50Int": 183,
     "lvl50Spd": 163,
-    "support" : "Trickster",
+    "skill" : "Trickster",
     "degeneratesTo": ["Myotismon", "Etemon", "Wisemon"],
     "digivolvesTo": null
   },
@@ -3704,7 +3704,7 @@
     "lvl50Def": 163,
     "lvl50Int": 148,
     "lvl50Spd": 124,
-    "support" : "Strange Dance",
+    "skill" : "Strange Dance",
     "degeneratesTo": ["Cherrymon", "Pumpkinmon", "Mamemon"],
     "digivolvesTo": null
   },
@@ -3722,7 +3722,7 @@
     "lvl50Def": 178,
     "lvl50Int": 109,
     "lvl50Spd": 120,
-    "support" : "Platinum Bonus",
+    "skill" : "Platinum Bonus",
     "degeneratesTo": ["GoldNumemon", "Etemon", "SuperStarmon", "BlackKingNumemon"],
     "digivolvesTo": null
   },
@@ -3740,7 +3740,7 @@
     "lvl50Def": 178,
     "lvl50Int": 89,
     "lvl50Spd": 140,
-    "support" : "Dragon's Wrath",
+    "skill" : "Dragon's Wrath",
     "degeneratesTo": ["Megadramon", "MetalGreymon (Blue)", "MetalTyrannomon"],
     "digivolvesTo": ["Omnimon Zwart"]
   },
@@ -3758,7 +3758,7 @@
     "lvl50Def": 173,
     "lvl50Int": 109,
     "lvl50Spd": 130,
-    "support" : "Millionaire",
+    "skill" : "Millionaire",
     "degeneratesTo": ["BlackKingNumemon", "Mamemon", "MetalMamemon"],
     "digivolvesTo": null
   },
@@ -3776,7 +3776,7 @@
     "lvl50Def": 114,
     "lvl50Int": 188,
     "lvl50Spd": 129,
-    "support" : "Deep Sea Slumber",
+    "skill" : "Deep Sea Slumber",
     "degeneratesTo": ["ShogunGekomon", "Whamon", "MegaSeadramon"],
     "digivolvesTo": null
   },
@@ -3794,7 +3794,7 @@
     "lvl50Def": 168,
     "lvl50Int": 124,
     "lvl50Spd": 124,
-    "support" : "Numbing Waves",
+    "skill" : "Numbing Waves",
     "degeneratesTo": ["MegaKabuterimon", "Okuwamon", "Vademon"],
     "digivolvesTo": null
   },
@@ -3812,7 +3812,7 @@
     "lvl50Def": 119,
     "lvl50Int": 99,
     "lvl50Spd": 168,
-    "support" : "Gluttony",
+    "skill" : "Gluttony",
     "degeneratesTo": ["Infermon", "SkullMeramon"],
     "digivolvesTo": ["Beelzemon BM"]
   },
@@ -3830,7 +3830,7 @@
     "lvl50Def": 114,
     "lvl50Int": 203,
     "lvl50Spd": 139,
-    "support" : "Sloth",
+    "skill" : "Sloth",
     "degeneratesTo": ["Digitamamon", "Wisemon"],
     "digivolvesTo": ["Belphemon RM"]
   },
@@ -3848,7 +3848,7 @@
     "lvl50Def": 99,
     "lvl50Int": 193,
     "lvl50Spd": 158,
-    "support" : "Phoenix Feathers",
+    "skill" : "Phoenix Feathers",
     "degeneratesTo": ["Garudamon", "Silphymon", "Piximon"],
     "digivolvesTo": null
   },
@@ -3866,7 +3866,7 @@
     "lvl50Def": 124,
     "lvl50Int": 183,
     "lvl50Spd": 129,
-    "support" : "Fairy Protection",
+    "skill" : "Fairy Protection",
     "degeneratesTo": ["MegaKabuterimon", "Angewomon", "Lillymon"],
     "digivolvesTo": null
   },
@@ -3884,7 +3884,7 @@
     "lvl50Def": 163,
     "lvl50Int": 84,
     "lvl50Spd": 140,
-    "support" : "Immobility",
+    "skill" : "Immobility",
     "degeneratesTo": ["SkullMeramon", "Pumpkinmon", "BlueMeramon"],
     "digivolvesTo": null
   },
@@ -3902,7 +3902,7 @@
     "lvl50Def": 134,
     "lvl50Int": 173,
     "lvl50Spd": 149,
-    "support" : "Parallel World Tactician",
+    "skill" : "Parallel World Tactician",
     "degeneratesTo": ["Angewomon", "LadyDevimon"],
     "digivolvesTo": null
   },
@@ -3920,7 +3920,7 @@
     "lvl50Def": 89,
     "lvl50Int": 203,
     "lvl50Spd": 153,
-    "support" : "Ocean Love",
+    "skill" : "Ocean Love",
     "degeneratesTo": ["Zudomon","Piximon", "Whamon"],
     "digivolvesTo": null
   },
@@ -3938,7 +3938,7 @@
     "lvl50Def": 114,
     "lvl50Int": 119,
     "lvl50Spd": 168,
-    "support" : "Primal Trooper",
+    "skill" : "Primal Trooper",
     "degeneratesTo": ["Digitamamon", "Monzaemon", "Crowmon", "WereGarurumon (Blk)"],
     "digivolvesTo": null
   },
@@ -3956,7 +3956,7 @@
     "lvl50Def": 114,
     "lvl50Int": 109,
     "lvl50Spd": 178,
-    "support" : "Feint",
+    "skill" : "Feint",
     "degeneratesTo": ["Panjyamon", "MachGaogamon", "WereGarurumon"],
     "digivolvesTo": ["MirageGaogamon BM"]
   },
@@ -3974,7 +3974,7 @@
     "lvl50Def": 183,
     "lvl50Int": 128,
     "lvl50Spd": 124,
-    "support" : "Full Functionality",
+    "skill" : "Full Functionality",
     "degeneratesTo": ["Gigadramon", "Datamon", "Megadramon"],
     "digivolvesTo": null
   },
@@ -3992,7 +3992,7 @@
     "lvl50Def": 188,
     "lvl50Int": 89,
     "lvl50Spd": 124,
-    "support" : "Muscle Monkey Suit",
+    "skill" : "Muscle Monkey Suit",
     "degeneratesTo": ["Meteormon", "Etemon", "BlackKingNumemon"],
     "digivolvesTo": null
   },
@@ -4010,7 +4010,7 @@
     "lvl50Def": 129,
     "lvl50Int": 129,
     "lvl50Spd": 178,
-    "support" : "Feral Pulse",
+    "skill" : "Feral Pulse",
     "degeneratesTo": ["Chirinmon", "Zudomon", "WereGarurumon"],
     "digivolvesTo": ["Omnimon"]
   },
@@ -4028,7 +4028,7 @@
     "lvl50Def": 173,
     "lvl50Int": 133,
     "lvl50Spd": 130,
-    "support" : "Menace",
+    "skill" : "Menace",
     "degeneratesTo": ["Datamon", "Rapidmon", "WereGarurumon", "WereGarurumon (Blk)"],
     "digivolvesTo": ["Omnimon Zwart"]
   },
@@ -4046,7 +4046,7 @@
     "lvl50Def": 139,
     "lvl50Int": 168,
     "lvl50Spd": 129,
-    "support" : "Mysterious Scale",
+    "skill" : "Mysterious Scale",
     "degeneratesTo": ["Gigadramon", "Whamon", "MegaSeadramon"],
     "digivolvesTo": null
   },
@@ -4064,7 +4064,7 @@
     "lvl50Def": 163,
     "lvl50Int": 74,
     "lvl50Spd": 140,
-    "support" : "Menace",
+    "skill" : "Menace",
     "degeneratesTo": ["WarGrowlmon", "MetalGreymon", "MetalTyrannomon"],
     "digivolvesTo": null
   },
@@ -4082,7 +4082,7 @@
     "lvl50Def": 158,
     "lvl50Int": 144,
     "lvl50Spd": 133,
-    "support" : "Envy",
+    "skill" : "Envy",
     "degeneratesTo": ["ShogunGekomon", "MegaSeadramon"],
     "digivolvesTo": null
   },
@@ -4100,7 +4100,7 @@
     "lvl50Def": 104,
     "lvl50Int": 223,
     "lvl50Spd": 173,
-    "support" : "Lust",
+    "skill" : "Lust",
     "degeneratesTo": ["Lilamon", "LadyDevimon"],
     "digivolvesTo": null
   },
@@ -4118,7 +4118,7 @@
     "lvl50Def": 119,
     "lvl50Int": 139,
     "lvl50Spd": 203,
-    "support" : "Wind Guardians",
+    "skill" : "Wind Guardians",
     "degeneratesTo": ["AeroVeedramon", "Garudamon", "Crowmon"],
     "digivolvesTo": ["Ravemon BM"]
   },
@@ -4136,7 +4136,7 @@
     "lvl50Def": 139,
     "lvl50Int": 144,
     "lvl50Spd": 193,
-    "support" : "Unmatched Cruelty",
+    "skill" : "Unmatched Cruelty",
     "degeneratesTo": ["Knightmon", "MagnaAngemon"],
     "digivolvesTo": null
   },
@@ -4154,7 +4154,7 @@
     "lvl50Def": 129,
     "lvl50Int": 149,
     "lvl50Spd": 144,
-    "support" : "Poison Thorns",
+    "skill" : "Poison Thorns",
     "degeneratesTo": ["Pumpkinmon", "Lilamon", "Lillymon"],
     "digivolvesTo": ["Rosemon BM"]
   },
@@ -4172,7 +4172,7 @@
     "lvl50Def": 109,
     "lvl50Int": 213,
     "lvl50Spd": 168,
-    "support" : "Flower Guard",
+    "skill" : "Flower Guard",
     "degeneratesTo": ["Lilamon", "Lillymon","LadyDevimon"],
     "digivolvesTo": null
   },
@@ -4190,7 +4190,7 @@
     "lvl50Def": 154,
     "lvl50Int": 154,
     "lvl50Spd": 153,
-    "support" : "Holy Salvation",
+    "skill" : "Holy Salvation",
     "degeneratesTo": ["Imperialdramon DM"],
     "digivolvesTo": null
   },
@@ -4208,7 +4208,7 @@
     "lvl50Def": 168,
     "lvl50Int": 134,
     "lvl50Spd": 144,
-    "support" : "Holy Knight",
+    "skill" : "Holy Knight",
     "degeneratesTo": ["WarGreymon", "MetalGarurumon"],
     "digivolvesTo": null
   },
@@ -4226,7 +4226,7 @@
     "lvl50Def": 193,
     "lvl50Int": 158,
     "lvl50Spd": 134,
-    "support" : "Obsidian Knight",
+    "skill" : "Obsidian Knight",
     "degeneratesTo": ["BlackWarGreymon", "MetalGarurumon (Blk)"],
     "digivolvesTo": null
   },
@@ -4244,7 +4244,7 @@
     "lvl50Def": 168,
     "lvl50Int": 109,
     "lvl50Spd": 140,
-    "support" : "Furious Howl",
+    "skill" : "Furious Howl",
     "degeneratesTo": ["Belphemon SM"],
     "digivolvesTo": null
   },
@@ -4262,7 +4262,7 @@
     "lvl50Def": 124,
     "lvl50Int": 233,
     "lvl50Spd": 158,
-    "support" : "Gehenna",
+    "skill" : "Gehenna",
     "degeneratesTo": ["Lucemon FM"],
     "digivolvesTo": null
   },
@@ -4280,7 +4280,7 @@
     "lvl50Def": 99,
     "lvl50Int": 89,
     "lvl50Spd": 138,
-    "support" : "Fight or Flight",
+    "skill" : "Fight or Flight",
     "degeneratesTo": ["Veemon"],
     "digivolvesTo": null
   },
@@ -4298,7 +4298,7 @@
     "lvl50Def": 208,
     "lvl50Int": 148,
     "lvl50Spd": 124,
-    "support" : "Miracle",
+    "skill" : "Miracle",
     "degeneratesTo": ["Veemon"],
     "digivolvesTo": null
   },
@@ -4316,7 +4316,7 @@
     "lvl50Def": 178,
     "lvl50Int": 158,
     "lvl50Spd": 124,
-    "support" : "Destiny",
+    "skill" : "Destiny",
     "degeneratesTo": ["Terriermon"],
     "digivolvesTo": null
   },
@@ -4334,7 +4334,7 @@
     "lvl50Def": 94,
     "lvl50Int": 223,
     "lvl50Spd": 153,
-    "support" : "Evil Heart",
+    "skill" : "Evil Heart",
     "degeneratesTo": ["Antylamon", "MetalGreymon (Blue)"],
     "digivolvesTo": null
   },
@@ -4352,7 +4352,7 @@
     "lvl50Def": 124,
     "lvl50Int": 104,
     "lvl50Spd": 178,
-    "support" : "Blaster",
+    "skill" : "Blaster",
     "degeneratesTo": ["Beelzemon"],
     "digivolvesTo": null
   },
@@ -4370,7 +4370,7 @@
     "lvl50Def": 148,
     "lvl50Int": 99,
     "lvl50Spd": 139,
-    "support" : "D-Brigade",
+    "skill" : "D-Brigade",
     "degeneratesTo": ["Gigadramon", "BlueMeramon", "WarGrowlmon"],
     "digivolvesTo": ["Chaosmon"]
   },
@@ -4388,7 +4388,7 @@
     "lvl50Def": 94,
     "lvl50Int": 89,
     "lvl50Spd": 188,
-    "support" : "Unstable Singularity",
+    "skill" : "Unstable Singularity",
     "degeneratesTo": ["BanchoLeomon", "Darkdramon"],
     "digivolvesTo": null
   },
@@ -4406,7 +4406,7 @@
     "lvl50Def": 129,
     "lvl50Int": 129,
     "lvl50Spd": 168,
-    "support" : "Freyr",
+    "skill" : "Freyr",
     "degeneratesTo": ["Angewomon", "Silphymon", "MagnaAngemon"],
     "digivolvesTo": null
   },
@@ -4424,7 +4424,7 @@
     "lvl50Def": 104,
     "lvl50Int": 84,
     "lvl50Spd": 168,
-    "support" : "Shining Burst",
+    "skill" : "Shining Burst",
     "degeneratesTo": ["ShineGreymon"],
     "digivolvesTo": null
   },
@@ -4442,7 +4442,7 @@
     "lvl50Def": 104,
     "lvl50Int": 158,
     "lvl50Spd": 174,
-    "support" : "Mirage Burst",
+    "skill" : "Mirage Burst",
     "degeneratesTo": ["MirageGaogamon"],
     "digivolvesTo": null
   },
@@ -4460,7 +4460,7 @@
     "lvl50Def": 139,
     "lvl50Int": 144,
     "lvl50Spd": 213,
-    "support" : "Crimson Formation",
+    "skill" : "Crimson Formation",
     "degeneratesTo": ["Ravemon"],
     "digivolvesTo": null
   },
@@ -4478,7 +4478,7 @@
     "lvl50Def": 139,
     "lvl50Int": 159,
     "lvl50Spd": 143,
-    "support" : "Tifaret",
+    "skill" : "Tifaret",
     "degeneratesTo": ["Rosemon"],
     "digivolvesTo": null
   }

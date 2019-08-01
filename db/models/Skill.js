@@ -1,8 +1,8 @@
-const mongoose = require('../connection');
+const mongoose = require("../connection");
 
 const Skill = new mongoose.Schema({
-    name: String,
-    Description: String
-})
+  name: String,
+  Description: String
+});
 
-module.exports = mongoose.model("Skill", skill);
+module.exports = mongoose.model("Skill", Skill);
