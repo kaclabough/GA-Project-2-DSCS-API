@@ -26,7 +26,7 @@ Move.find({}).remove(
   () =>
     moveData.forEach(move => {
       Move.create({
-        name: move.move,
+        name: move.move.toLowerCase(),
         type: move.type,
         attribute: move.attribute,
         description: move.description
@@ -39,7 +39,7 @@ Skill.find({}).remove(
   () =>
     skillData.forEach(skill => {
       Skill.create({
-        name: skill.name,
+        name: skill.name.toLowerCase(),
         description: skill.description
       });
     }),

@@ -15,10 +15,12 @@ console.log(digiReference);
 
 Digimon.find({}).then(digimons => {
   digimons.forEach((digimon, i) => {
-    Skill.findOne({ name: digiReference[i].skill }).then(skill => {
-      digimon.skill = skill._id;
-      digimon.save();
-    });
+    Skill.findOne({ name: digiReference[i].skill.toLowerCase() }).then(
+      skill => {
+        digimon.skill = skill._id;
+        digimon.save();
+      }
+    );
   });
 });
 
