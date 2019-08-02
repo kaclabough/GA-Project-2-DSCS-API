@@ -12,8 +12,10 @@ Digimon.find({}).remove(
         name: digimon.digimon,
         stage: digimon.stage,
         type: digimon.type,
-        attribute: digimon.attribute
-        // degeratesTo: [],
+        attribute: digimon.attribute,
+        degeneratesTo: digimon.degeneratesTo,
+        digivolvesTo: digimon.digivolvesTo
+        // degeneratesTo: [],
         // digivolvesTo: []
       });
     }),

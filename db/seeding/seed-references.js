@@ -5,7 +5,7 @@ const Skill = require("../models/Skill");
 const digiReference = digimonData.map(digimon => {
   let temp = {
     skill: digimon.skill
-    // degeneratesTo: digimon.degeneratesTo,
+    // degeneratesTo: digimon.degeneratesTo
     // digivolvesTo: digimon.digivolvesTo
   };
   return temp;
