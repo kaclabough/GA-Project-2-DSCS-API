@@ -9,7 +9,7 @@ Digimon.find({}).remove(
   () =>
     digimonData.forEach(digimon => {
       Digimon.create({
-        name: digimon.digimon,
+        name: digimon.digimon.toLowerCase(),
         stage: digimon.stage,
         type: digimon.type,
         attribute: digimon.attribute,
