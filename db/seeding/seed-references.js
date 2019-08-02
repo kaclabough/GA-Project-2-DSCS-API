@@ -5,8 +5,6 @@ const Skill = require("../models/Skill");
 const digiReference = digimonData.map(digimon => {
   let temp = {
     skill: digimon.skill
-    // degeneratesTo: digimon.degeneratesTo
-    // digivolvesTo: digimon.digivolvesTo
   };
   return temp;
 });
@@ -23,32 +21,3 @@ Digimon.find({}).then(digimons => {
     );
   });
 });
-
-// Digimon.find({}).then(digimons => {
-//   digimons.forEach((digimon, i) => {
-//     if (digiReference[i].degeneratesTo !== null) {
-//       digiReference[i].degeneratesTo.forEach(degeneration => {
-//         console.log(degeneration);
-//         Digimon.find({ name: degeneration }).then(degen => {
-//           console.log(degen);
-//           console.log(digimon);
-//         });
-//       });
-//     }
-//   });
-// });
-
-// Digimon.find({}).then(digimons => {
-//   digimons.forEach((digimon, i) => {
-//     if (digiReference[i].digivolvesTo !== null) {
-//       digiReference[i].digivolvesTo.forEach(digivolution => {
-//         console.log(digivolution);
-//         Digimon.findOne({ name: digivolution }).then(digivolution => {
-//           digimon.digivolvesTo.push(digivolution._id);
-//         });
-//       });
-//       console.log(digimon);
-//     }
-//     digimon.save();
-//   });
-// });

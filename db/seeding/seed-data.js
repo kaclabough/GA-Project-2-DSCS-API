@@ -15,8 +15,6 @@ Digimon.find({}).remove(
         attribute: digimon.attribute,
         degeneratesTo: digimon.degeneratesTo,
         digivolvesTo: digimon.digivolvesTo
-        // degeneratesTo: [],
-        // digivolvesTo: []
       });
     }),
   console.log("Digimon seeded")

@@ -11,18 +11,6 @@ const Digimon = new mongoose.Schema({
   attribute: String,
   degeneratesTo: [String],
   digivolvesTo: [String]
-  // degeneratesTo: [
-  //   {
-  //     type: mongoose.Schema.Types.ObjectId,
-  //     ref: "Digimon"
-  //   }
-  // ]
-  //   digivolvesTo: [
-  //     {
-  //       type: mongoose.Schema.Types.ObjectId,
-  //       ref: "Digimon"
-  //     }
-  //   ]
 });
 
 module.exports = mongoose.model("Digimon", Digimon);
