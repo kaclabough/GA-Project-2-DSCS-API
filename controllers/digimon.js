@@ -38,16 +38,12 @@ module.exports = {
   },
   update: (req, res) => {
     let search = req.params.name.toLowerCase();
-    let firstLetter = search[0].toUpperCase();
-    search = firstLetter + search.slice(1);
     Digimon.findOneAndUpdate({ name: search }, req.body).then(digimon => {
       res.json(digimon);
     });
   },
   delete: (req, res) => {
     let search = req.params.name.toLowerCase();
-    let firstLetter = search[0].toUpperCase();
-    search = firstLetter + search.slice(1);
     Digimon.findOneAndDelete({ name: search }).then(digimon => {
       res.json(digimon);
     });

@@ -28,16 +28,12 @@ module.exports = {
   },
   update: (req, res) => {
     let search = req.params.name.toLowerCase();
-    let firstLetter = search[0].toUpperCase();
-    search = firstLetter + search.slice(1);
     Move.findOneAndUpdate({ name: search }, req.body).then(move => {
       res.json(move);
     });
   },
   delete: (req, res) => {
     let search = req.params.name.toLowerCase();
-    let firstLetter = search[0].toUpperCase();
-    search = firstLetter + search.slice(1);
     Move.findOneAndDelete({ name: search }).then(move => {
       res.json(move);
     });

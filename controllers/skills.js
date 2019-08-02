@@ -21,16 +21,12 @@ module.exports = {
   },
   update: (req, res) => {
     let search = req.params.name.toLowerCase();
-    let firstLetter = search[0].toUpperCase();
-    search = firstLetter + search.slice(1);
     Skill.findOneAndUpdate({ name: search }, req.body).then(skill => {
       res.json(skill);
     });
   },
   delete: (req, res) => {
     let search = req.params.name.toLowerCase();
-    let firstLetter = search[0].toUpperCase();
-    search = firstLetter + search.slice(1);
     Skill.findOneAndDelete({ name: search }).then(skill => {
       res.json(skill);
     });
