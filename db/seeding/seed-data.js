@@ -24,7 +24,7 @@ Move.find({}).remove(
   () =>
     moveData.forEach(move => {
       Move.create({
-        name: move.name,
+        name: move.move,
         type: move.type,
         attribute: move.attribute,
         description: move.description
