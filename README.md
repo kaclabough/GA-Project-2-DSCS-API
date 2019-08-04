@@ -4,8 +4,6 @@ This api is for the Digimon included in the game Digimon Story: Cyber Sleuth.
 The user will be able to see a digimons digivolutions and their support skills,
 as well as a list of all attacks present in the game.
 
-Youtube link: <https://youtu.be/o4hJTz6Ez4k>
-
 ## Getting Started
 
 1. Clone the repo
@@ -21,42 +19,24 @@ You will need
 
 ### Installing
 
-1. start the mongo server
+1. Start the mongo server
 
 ```cmd
 sudo service mongod start
 ```
 
-2. from the project's root directory, seed the database by using the commands:
+2. From the project's root directory, seed the database by using the commands:
 
 ```cmd
 node db/seeding/seed-data.js
 node db/seeding/seed-reference.js
 ```
 
+3. Open the connection to the database by running `node index.js`
+
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Youtube link: <https://youtu.be/o4hJTz6Ez4k>
 
 ## Built With
 
@@ -64,26 +44,10 @@ Add additional notes about how to deploy this on a live system
 - [Maven](https://maven.apache.org/) - Dependency Management
 - [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
-
-Please read
-[CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for
-details on our code of conduct, and the process for submitting pull requests to
-us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available,
-see the [tags on this repository](https://github.com/your/project/tags).
-
 ## Authors
 
-- **Billie Thompson** - _Initial work_ -
-  [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/your/project/contributors) who participated in
-this project.
+- **Kyle Clabogh** - _Initial work_ -
+  [SirAirdude](https://github.com/SirAirdude)
 
 ## License
 
@@ -92,6 +56,5 @@ This project is licensed under the MIT License - see the
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Dataset created by [Mark Korsak](https://www.mkorsak.com/projects/6948546)
+- Dataset obtained from: (https://www.kaggle.com/rtatman/digidb)
