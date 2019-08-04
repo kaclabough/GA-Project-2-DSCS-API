@@ -36,7 +36,7 @@ node db/seeding/seed-reference.js
 
 ## Running the tests
 
-Youtube link: <https://youtu.be/o4hJTz6Ez4k>
+Youtube Tutorial: <https://youtu.be/o4hJTz6Ez4k>
 
 this project is deployed
 [here](https://digimon-cyber-sleuth-api.herokuapp.com/api/digimon)
@@ -86,6 +86,13 @@ REST routes for the Skill model:
 - [Mongoose](https://mongoosejs.com/)
 - [Nodejs](https://nodejs.org/en/)
 
+# Future Objectives
+
+- Update database with data from sequel game
+- Add an Array of object id in Digimon model that references the Move model
+- Change the Array of Digivolutions and Degerations to object id refernces to
+  entries of the Digimon model
+
 ## Authors
 
 - **Kyle Clabogh** - _Initial work_ -
@@ -99,4 +106,4 @@ This project is licensed under the MIT License - see the
 ## Acknowledgments
 
 - Dataset created by [Mark Korsak](https://www.mkorsak.com/projects/6948546)
-- Dataset obtained from: https://www.kaggle.com/rtatman/digidb
+- Dataset obtained from: <https://www.kaggle.com/rtatman/digidb>
