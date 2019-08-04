@@ -17,6 +17,7 @@ You will need
 
 - mongodb
 - postman
+- node
 
 ### Installing
 
@@ -26,7 +27,12 @@ You will need
 sudo service mongod start
 ```
 
-2.
+2. from the project's root directory, seed the database by using the commands:
+
+```cmd
+node db/seeding/seed-data.js
+node db/seeding/seed-reference.js
+```
 
 ## Running the tests
 
