@@ -27,7 +27,7 @@ You will need
 sudo service mongod start
 ```
 
-2. from the project's root directory, seed the database by using the commands:
+1. from the project's root directory, seed the database by using the commands:
 
 ```cmd
 node db/seeding/seed-data.js
