@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/SirAirdude/GA-Project-2-DSCS-API#readme",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.7.5"
